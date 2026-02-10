@@ -31,8 +31,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="CieloTv.it" tvg-chno="26" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="CieloTV.it" group-title="Italy",Cielo Ⓖ
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="126" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cielo.svg" group-title="Italy BKP",Cielo
-http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/2
 #EXTINF:-1 tvg-name="TwentySeven.it" tvg-chno="27" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="27Twentyseven.it" group-title="Italy",27 Twentyseven Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="TV2000.it" tvg-chno="28" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" group-title="Italy",TV 2000
@@ -135,12 +133,14 @@ https://64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Padre Pio Tv" tvg-chno="145" tvg-logo="https://i.imgur.com/7ajxEPH.png" group-title="Italy",Padre Pio Tv
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Rai1.it" tvg-chno="201" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="Italy BKP",Rai 1 Ⓖ
+#EXTINF:-1 tvg-name="Rai1.it" tvg-chno="201" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="BKP",Rai 1 Ⓖ
 https://rai.zappr.stream/rai1.m3u8
-#EXTINF:-1 tvg-name="Rai2.it" tvg-chno="202" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="Italy BKP",Rai 2 Ⓖ
+#EXTINF:-1 tvg-name="Rai2.it" tvg-chno="202" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="BKP",Rai 2 Ⓖ
 https://rai.zappr.stream/rai2.m3u8
-#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv8.svg" group-title="Italy BKP",TV8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv8.svg" group-title="BKP",TV8
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/7
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="126" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cielo.svg" group-title="BKP",Cielo
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/2
 #EXTINF:-1 tvg-name="Radio105TV.it" tvg-chno="301" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Radio",Radio 105 TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="R101TV.it" tvg-chno="302" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" group-title="Radio",R101 TV Ⓖ

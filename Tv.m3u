@@ -140,7 +140,7 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 https://rai.zappr.stream/rai1.m3u8
 #EXTINF:-1 tvg-name="Rai2.it" tvg-chno="202" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="Italy",Rai 2 Ⓖ
 https://rai.zappr.stream/rai2.m3u8
-#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv8.svg" group-title="Sky",TV8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv8.svg" group-title="Italy",TV8
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/7
 #EXTINF:-1 tvg-name="Radio105TV.it" tvg-chno="301" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Radio",Radio 105 TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8

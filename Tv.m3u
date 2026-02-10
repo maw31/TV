@@ -135,11 +135,11 @@ https://64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Padre Pio Tv" tvg-chno="145" tvg-logo="https://i.imgur.com/7ajxEPH.png" group-title="Italy",Padre Pio Tv
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Rai1.it" tvg-chno="201" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="Italy",Rai 1 Ⓖ
+#EXTINF:-1 tvg-name="Rai1.it" tvg-chno="201" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="Italy BKP",Rai 1 Ⓖ
 https://rai.zappr.stream/rai1.m3u8
-#EXTINF:-1 tvg-name="Rai2.it" tvg-chno="202" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="Italy",Rai 2 Ⓖ
+#EXTINF:-1 tvg-name="Rai2.it" tvg-chno="202" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="Italy BKP",Rai 2 Ⓖ
 https://rai.zappr.stream/rai2.m3u8
-#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv8.svg" group-title="Italy",TV8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv8.svg" group-title="Italy BKP",TV8
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/7
 #EXTINF:-1 tvg-name="Radio105TV.it" tvg-chno="301" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Radio",Radio 105 TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
@@ -175,13 +175,13 @@ http://77.46.130.252:99/maxsport2
 http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-chno="407" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/maxsport-logo.png" group-title="Sport",MAX SPORT 4
 http://77.46.130.252:99/maxsport4
-#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-chno="408" tvg-logo="https://www.sporttv.pt/logos/sporttv-mais-rebrand.svg" group-title="Sport",SPORTTV 1
+#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-chno="408" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv1.webp" group-title="Sport",SPORTTV 1
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
-#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-chno="409" tvg-logo="https://www.sporttv.pt/logos/sporttv-mais-rebrand.svg" group-title="Sport",SPORTTV 2
+#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-chno="409" tvg-logo=https://tvepg.eu/img/portugal/logo/sport-tv2.webp" group-title="Sport",SPORTTV 2
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167743.ts
-#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-chno="410" tvg-logo="https://www.sporttv.pt/logos/sporttv-mais-rebrand.svg" group-title="Sport",SPORTTV 3
+#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-chno="410" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv3.webp" group-title="Sport",SPORTTV 3
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167744.ts
-#EXTINF:-1 tvg-id="SportTV4.pt@SD" tvg-chno="411" tvg-logo="https://www.sporttv.pt/logos/sporttv-mais-rebrand.svg" group-title="Sport",SPORTTV 4
+#EXTINF:-1 tvg-id="SportTV4.pt@SD" tvg-chno="411" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv4.webp" group-title="Sport",SPORTTV 4
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167745.ts
 #EXTINF:-1 tvg-chno="412" tvg-logo="https://en.wikipedia.org/wiki/File:SuperSport_Albania.svg" group-title="Sport",Super Sport 1 AL
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494

@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url= "http://rebrand.ly/epgitalia, https://github.com/iptv-org/epg/raw/refs/heads/master/sites/pluto.tv/pluto.tv_us.channels.xml, https://github.com/iptv-org/epg/raw/refs/heads/master/sites/sporttv.pt/sporttv.pt.channels.xml
+#EXTM3U x-tvg-url="http://rebrand.ly/epgitalia, https://github.com/iptv-org/epg/raw/refs/heads/master/sites/pluto.tv/pluto.tv_us.channels.xml, https://github.com/iptv-org/epg/raw/refs/heads/master/sites/sporttv.pt/sporttv.pt.channels.xml"
 #EXTINF:-1 tvg-name="Rai1.it" tvg-chno="1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="Italy",Rai 1 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai12.it" tvg-chno="2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="Italy",Rai 2 Ⓖ

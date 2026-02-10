@@ -141,6 +141,8 @@ https://rai.zappr.stream/rai2.m3u8
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/7
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="126" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cielo.svg" group-title="BKP",Cielo
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/2
+#EXTINF:-1 tvg-name="RadioPOOH.it" tvg-chno="300" tvg-logo="https://radiopooh.it/wp-content/uploads/2025/02/cropped-favicon-192x192.jpg" tvg-id="RadioPOOH.it" group-title="Radio",Radio POOH
+https://rtr99.fluidstream.eu/rtr99_pooh.aac?FLID=1&aw_0_req.gdpr=true&xrnd=698b355a3dd13?type=.aac
 #EXTINF:-1 tvg-name="Radio105TV.it" tvg-chno="301" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Radio",Radio 105 TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="R101TV.it" tvg-chno="302" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" group-title="Radio",R101 TV Ⓖ

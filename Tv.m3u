@@ -204,12 +204,30 @@ http://65.108.239.207/t4/index.m3u8
 #EXTINF:-1 tvg-chno="419" tvg-logo="https://en.wikipedia.org/wiki/File:ArtSport_Logo.jpg" group-title="Sport",Art Sport 1 HD KO
 http://169.150.223.25/ArtSport1HD/index.m3u8
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://en.wikipedia.org/wiki/File:ArtSport_Logo.jpg" group-title="Sport",Art Sport 2 HD KO
-http://169.150.223.25/ArtSport2HD/index.m3u8
+http://169.150.223.25/ArtSport2/index.m3u8
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://en.wikipedia.org/wiki/File:ArtSport_Logo.jpg" group-title="Sport",Art Sport 3 HD KO
-http://169.150.223.25/ArtSport3HD/index.m3u8
+http://169.150.223.25/ArtSport3/index.m3u8
 #EXTINF:-1 tvg-chno="422" tvg-logo="https://en.wikipedia.org/wiki/File:ArtSport_Logo.jpg" group-title="Sport",Art Sport 4 HD KO
-http://169.150.223.25/ArtSport4HD/index.m3u8
+http://169.150.223.25/ArtSport4/index.m3u8
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://en.wikipedia.org/wiki/File:ArtSport_Logo.jpg" group-title="Sport",Art Sport 5 HD KO
-http://169.150.223.25/ArtSport5HD/index.m3u8
+http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://en.wikipedia.org/wiki/File:ArtSport_Logo.jpg" group-title="Sport",Art Sport 6 HD KO
-http://169.150.223.25/ArtSport6HD/index.m3u8
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Arena Sport 1 HD
+http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
+#EXTINF:-1 tvg-chno="426" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Arena Sport 2 HD
+http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
+#EXTINF:-1 tvg-chno="427" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Arena Sport 3 HD
+http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
+#EXTINF:-1 tvg-chno="428" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Arena Sport 4 HD
+http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
+#EXTINF:-1 tvg-chno="429" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Sport 1 HD
+http://87.246.54.249:8080/ArenaSport1/index.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Sport 2 HD
+http://87.246.54.249:8080/ArenaSport2/index.m3u8
+#EXTINF:-1 tvg-chno="431" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Sport 3 HD
+http://87.246.54.249:8080/ArenaSport3/index.m3u8
+#EXTINF:-1 tvg-chno="432" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Sport 4 HD
+http://87.246.54.249:8080/ArenaSport4/index.m3u8
+
+

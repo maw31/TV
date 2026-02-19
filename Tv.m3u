@@ -230,13 +230,13 @@ http://169.150.223.25/ArtSport4/index.m3u8
 http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo_v2.png?1725287953" group-title="Sport",Art Sport 6 HD KO
 http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Arena Sport 1 HD
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png?1737563804" group-title="Sport",Arena Sport 1 HD
 http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="426" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Arena Sport 2 HD
+#EXTINF:-1 tvg-chno="426" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo_v3.png?1737622079" group-title="Sport",Arena Sport 2 HD
 http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="427" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Arena Sport 3 HD
+#EXTINF:-1 tvg-chno="427" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo_v3.png?1737622697" group-title="Sport",Arena Sport 3 HD
 http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="428" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Arena Sport 4 HD
+#EXTINF:-1 tvg-chno="428" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo_v3.png?1737623932" group-title="Sport",Arena Sport 4 HD
 http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
 #EXTINF:-1 tvg-chno="429" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="Sport",Sport 1 HD
 http://87.246.54.249:8080/ArenaSport1/index.m3u8

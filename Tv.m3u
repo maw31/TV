@@ -186,13 +186,13 @@ https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
 #EXTINF:-1 tvg-id="CBDSportsHQ.us" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
-#EXTINF:-1 tvg-chno="404" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/maxsport-logo.png" group-title="Sport",MAX SPORT 1
+#EXTINF:-1 tvg-chno="404" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="Sport",MAX SPORT 1
 http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-chno="405" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/maxsport-logo.png" group-title="Sport",MAX SPORT 2
+#EXTINF:-1 tvg-chno="405" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png?1752486985" group-title="Sport",MAX SPORT 2
 http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-chno="406" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/maxsport-logo.png" group-title="Sport",MAX SPORT 3
+#EXTINF:-1 tvg-chno="406" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="Sport",MAX SPORT 3
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-chno="407" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/maxsport-logo.png" group-title="Sport",MAX SPORT 4
+#EXTINF:-1 tvg-chno="407" tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="Sport",MAX SPORT 4
 http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-chno="408" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv1.webp" group-title="Sport",SPORTTV 1
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts

@@ -154,7 +154,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11223/tv8web/master.m3u8?hd
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="208" tvg-logo="https://i.imgur.com/xvoHVOU.png" group-title="BKP",TV8
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/7
-#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="126" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Cielo-TV-in-diretta-live-1536x864.png" group-title="BKP",Cielo
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="209" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Cielo-TV-in-diretta-live-1536x864.png" group-title="BKP",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556#EXTINF:-1 tvg-name="Radio105TV.it" tvg-chno="301" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="RadioTV",Radio 105 TV 
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="R101TV.it" tvg-chno="302" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" group-title="RadioTV",R101 TV 
@@ -189,7 +189,7 @@ https://icy.unitedradio.it/Suby.mp3
 https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-chno="401" tvg-name="CBS.Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="Sport",CBS SPORTS NETWORK US
 https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Golazo.us" tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/golazo.webp" group-title="Sport",Golazo - SerieA
+#EXTINF:-1 tvg-id="Golazo.us" tvg-chno="402" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/0267a27d/DRAFTGolazoAnnouncementRelease03062023FINAL_html_57bcdd2557c25f59.png" group-title="Sport",Golazo - SerieA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
 #EXTINF:-1 tvg-id="CBDSportsHQ.us" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown

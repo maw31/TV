@@ -131,12 +131,18 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="Gamberorosso.it" tvg-chno="108" tvg-logo="https://static.gamberorosso.it/2025/04/cropped-gambero-rosso.jpg" group-title="Italy",Gambero Rosso
 https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Norba Tv" tvg-chno="109" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="Radio",Radio Norba Tv
+#EXTINF:-1 tvg-id="Tele Norba" tvg-chno="109" tvg-logo="https://cdn.telenorba.it/static/2023/01/cropped-norbaonline-favicon-192x192.png" group-title="Italy",Telenorba
+https://router.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Tele Norba" tvg-chno="110" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/tgnorba24.svg" group-title="Italy",TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Radio Norba Tv" tvg-chno="111" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="Radio",Radio Norba Tv
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Tele Sud Puglia" tvg-chno="110" tvg-logo="https://i.imgur.com/fqTLtvs.png" group-title="Italy",Tele Sud Puglia
+#EXTINF:-1 tvg-name="Tele Sud Puglia" tvg-chno="112" tvg-logo="https://i.imgur.com/fqTLtvs.png" group-title="Italy",Tele Sud Puglia
 https://64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8
-#EXTINF:-1 tvg-name="Telerama" tvg-chno="111" tvg-logo="https://i.imgur.com/enfqUlI.jpg" group-title="Italy",Telerama
+#EXTINF:-1 tvg-name="Telerama" tvg-chno="113" tvg-logo="https://i.imgur.com/enfqUlI.jpg" group-title="Italy",Telerama
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Studio 100" tvg-chno="114" tvg-logo="https://www.tvdream.net/img/studio100.png" group-title="Italy",Studio 100
+https://cdn16.streamshow.it/cloud-studio100/studio100/manifest.mpd
 #EXTINF:-1 tvg-name="Padre Pio Tv" tvg-chno="145" tvg-logo="https://i.imgur.com/7ajxEPH.png" group-title="Italy",Padre Pio Tv
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai1.it" tvg-chno="201" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="BKP",Rai 1 
@@ -177,7 +183,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="radio1sport.it" tvg-chno="315" tvg-logo="https://www.raiplaysound.it/cropgd/1200x630/dl/img/2023/04/19/1681891673637_logo-radio-1-sport-2048x2048.png" group-title="Radio",Rai Radio 1 Sport
 https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/playlist.m3u8
 #EXTINF:-1 tvg-name="RadioPOOH.it" tvg-chno="316" tvg-logo="https://radiopooh.it/wp-content/uploads/2025/02/cropped-favicon-192x192.jpg" tvg-id="RadioPOOH.it" group-title="Radio",Radio POOH
-https://rtr99.fluidstream.eu/rtr99_pooh.aac?FLID=1&aw_0_req.gdpr=true&xrnd=698b355a3dd13?type=.aac
+https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest.mpd
 #EXTINF:-1 tvg-name="PinkFloyd" tvg-chno="317" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Pink-Floyd-Symbol.png" tvg-id="PinkFloyd.it" group-title="Radio",Pink Floyd
 https://icy.unitedradio.it/VirginRogerWaters.mp3
 #EXTINF:-1 tvg-name="Queen" tvg-chno="318" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1200x1200bf-60.jpg" tvg-id="Queen.it" group-title="Radio",Queen

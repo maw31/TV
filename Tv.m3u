@@ -167,9 +167,9 @@ https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="213" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-1-mediaset-extra.jpg" group-title="Italy",GF Regia 1 Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 ttvg-chno="214" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-2.jpg" group-title="Italy",GF Regia 2
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
+ https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="215" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-unora-fa.jpg" group-title="Italy",GF Un'ora fa 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
+ https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Radio105TV.it" tvg-chno="301" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="RadioTV",Radio 105 TV 
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="R101TV.it" tvg-chno="302" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" group-title="RadioTV",R101 TV 

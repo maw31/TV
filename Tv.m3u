@@ -120,6 +120,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://images.seeklogo.com/logo-png/47/1/euronews-logo-png_seeklogo-470736.png"  group-title="News",Euronews Italia
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai4k.svg" group-title="Rai",Rai 4K
+EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAfrica.it" tvg-chno="104" tvg-logo="https://resources.italianmedia.com.au/images/rai-italia.png" group-title="Rai estero",Rai Italia Africa
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
@@ -166,9 +167,11 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-1-mediaset-extra.jpg" group-title="Italy",GF Regia 1 Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 ttvg-chno="214" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-2.jpg" group-title="Italy",GF Regia 2
+#EXTINF:-1 tvg-chno="214" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-2.jpg" group-title="Italy",GF Regia 1
+ https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-2.jpg" group-title="Italy",GF Regia 2
  https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="215" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-unora-fa.jpg" group-title="Italy",GF Un'ora fa 
+#EXTINF:-1 tvg-chno="216" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-unora-fa.jpg" group-title="Italy",GF Un'ora fa 
  https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Radio105TV.it" tvg-chno="301" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="RadioTV",Radio 105 TV 
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8

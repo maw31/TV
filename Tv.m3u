@@ -120,7 +120,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://images.seeklogo.com/logo-png/47/1/euronews-logo-png_seeklogo-470736.png"  group-title="News",Euronews Italia
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai4k.svg" group-title="Rai",Rai 4K
-EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAfrica.it" tvg-chno="104" tvg-logo="https://resources.italianmedia.com.au/images/rai-italia.png" group-title="Rai estero",Rai Italia Africa
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
@@ -173,6 +173,14 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
  https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="216" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-unora-fa.jpg" group-title="Italy",GF Un'ora fa 
  https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e17ab6db-7f70-4523-8c8c-4f7f919f04e7-width300-quality90.png",Juventus Play
+https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/bb49ed71-bf84-480e-9336-4cfaba55d253-width200-quality90.png",INTER 24/7
+https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Lazio Style Channel
+https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/manifest.m3u8
 #EXTINF:-1 tvg-name="Radio105TV.it" tvg-chno="301" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="RadioTV",Radio 105 TV 
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="R101TV.it" tvg-chno="302" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" group-title="RadioTV",R101 TV 
@@ -205,6 +213,8 @@ https://icy.unitedradio.it/SubasioPiu.mp3
 https://icy.unitedradio.it/Suby.mp3
 #EXTINF:-1 tvg-name="Radio Subasio Per un'ora d'Amore" tvg-chno="322" tvg-logo="https://www.radiosubasio.it/player/src/assets/logo/radiosubasio.png" tvg-id="RadioSubasio.it" group-title="Radio",Radio Subasio Per un'ora d'Amore
 https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
+#EXTINF:-1 tvg-chno="400" tvg-name="SKY F1" group-title="Sport", Sky Sport *F1 SD (non sempre attivo)
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-chno="401" tvg-name="CBS.Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="Sport",CBS SPORTS NETWORK US
 https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Golazo.us" tvg-chno="402" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/0267a27d/DRAFTGolazoAnnouncementRelease03062023FINAL_html_57bcdd2557c25f59.png" group-title="Sport",Golazo - SerieA

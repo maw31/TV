@@ -281,6 +281,9 @@ http://87.246.54.249:8080/ArenaSport2/index.m3u8
 http://87.246.54.249:8080/ArenaSport3/index.m3u8
 #EXTINF:-1 tvg-chno="432" tvg-logo="https://tvarenasport.hr/wp-content/uploads/2024/03/logo-arena-small.png" group-title="SPORT",Sport 4 HD
 http://87.246.54.249:8080/ArenaSport4/index.m3u8
+#EXTINF:-1 tvg-chno="433" tvg-name="SKY F1" group-title="SPORT", Sky Sport F1 ITA
+https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+#EXTINF:-1 tvg-chno="434" tvg-name="SKY MOTOGP" group-title="SPORT", Sky MOTOGP ITA
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM
 #EXTINF:-1 channel-id="ITBC1100008L4" tvg-id="ITBC1100008L4" tvg-chno="4003" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20260224T031348SQUARE.png" group-title="Film",Alberto Sordi & Co

@@ -221,53 +221,61 @@ https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-id="CBDSportsHQ.us" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="SPORT",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
-#EXTINF:-1 tvg-chno="404" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1
+#EXTINF:-1 tvg-chno="404" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
+http://87.246.54.249:8080/MaxSport1/index.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1
 http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-chno="405" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png?1752486985" group-title="SPORT",MAX SPORT 2
+#EXTINF:-1 tvg-chno="406" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png?1752486985" group-title="SPORT",MAX SPORT 2 HD
+http://87.246.54.249:8080/MaxSport2/index.m3u8
+#EXTINF:-1 tvg-chno="407" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png?1752486985" group-title="SPORT",MAX SPORT 2
 http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-chno="406" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SPORT",MAX SPORT 3
+#EXTINF:-1 tvg-chno="408" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SPORT",MAX SPORT 3 HD
+http://87.246.54.249:8080/MaxSport3/index.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SPORT",MAX SPORT 3
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-chno="407" tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4 HD
+http://87.246.54.249:8080/MaxSport4/index.m3u8
+#EXTINF:-1 tvg-chno="411" tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4
 http://77.46.130.252:99/maxsport4
-#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-chno="408" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv1.webp" group-title="SPORT",SPORTTV 1
+#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-chno="412" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv1.webp" group-title="SPORT",SPORTTV 1
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
-#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-chno="409" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv2.webp" group-title="SPORT",SPORTTV 2
+#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-chno="413" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv2.webp" group-title="SPORT",SPORTTV 2
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167743.ts
-#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-chno="410" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv3.webp" group-title="SPORT",SPORTTV 3
+#EXTINF:-1 tvg-id="SportTV3.pt@SD" tvg-chno="414" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv3.webp" group-title="SPORT",SPORTTV 3
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167744.ts
-#EXTINF:-1 tvg-id="SportTV4.pt@SD" tvg-chno="411" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv4.webp" group-title="SPORT",SPORTTV 4
+#EXTINF:-1 tvg-id="SportTV4.pt@SD" tvg-chno="415" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv4.webp" group-title="SPORT",SPORTTV 4
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167745.ts
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://logo.m3uassets.com/supersport1.png" group-title="SPORT",Super Sport 1 AL
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://logo.m3uassets.com/supersport1.png" group-title="SPORT",Super Sport 1 AL
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-#EXTINF:-1 tvg-chno="413" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60zt211592206089.png" group-title="SPORT",Super Sport 2 AL
+#EXTINF:-1 tvg-chno="417" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60zt211592206089.png" group-title="SPORT",Super Sport 2 AL
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-#EXTINF:-1 tvg-chno="413" tvg-logo="https://e7.pngegg.com/pngimages/575/710/png-clipart-albania-supersport-television-channel-streaming-media-others-miscellaneous-television.png" group-title="SPORT",Super Sport 3 AL
+#EXTINF:-1 tvg-chno="418" tvg-logo="https://e7.pngegg.com/pngimages/575/710/png-clipart-albania-supersport-television-channel-streaming-media-others-miscellaneous-television.png" group-title="SPORT",Super Sport 3 AL
 http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
-#EXTINF:-1 tvg-chno="414" tvg-logo="https://e7.pngegg.com/pngimages/320/905/png-clipart-albania-supersport-digitalb-television-streaming-media-others-television-blue.png" group-title="SPORT",Super Sport 3 AL
+#EXTINF:-1 tvg-chno="419" tvg-logo="https://e7.pngegg.com/pngimages/320/905/png-clipart-albania-supersport-digitalb-television-streaming-media-others-television-blue.png" group-title="SPORT",Super Sport 3 AL
 http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
-#EXTINF:-1 tvg-chno="415" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_TR_logo_v2.png?1747139940" group-title="SPORT",Tivibu Spor 1 TR
+#EXTINF:-1 tvg-chno="420" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_TR_logo_v2.png?1747139940" group-title="SPORT",Tivibu Spor 1 TR
 http://65.108.239.207/t1/index.m3u8
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_2_TR_logo_v2.png?1733730885" group-title="SPORT",Tivibu Spor 2 TR
+#EXTINF:-1 tvg-chno="421" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_2_TR_logo_v2.png?1733730885" group-title="SPORT",Tivibu Spor 2 TR
 http://65.108.239.207/t2/index.m3u8
-#EXTINF:-1 tvg-chno="417" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_3_TR_logo_v2.png?1733730977" group-title="SPORT",Tivibu Spor 3 TR
+#EXTINF:-1 tvg-chno="422" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_3_TR_logo_v2.png?1733730977" group-title="SPORT",Tivibu Spor 3 TR
 http://65.108.239.207/t3/index.m3u8
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_4_TR_logo_v2.png?1733731049" group-title="SPORT",Tivibu Spor 4 TR
+#EXTINF:-1 tvg-chno="423" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_4_TR_logo_v2.png?1733731049" group-title="SPORT",Tivibu Spor 4 TR
 http://65.108.239.207/t4/index.m3u8
-#EXTINF:-1 tvg-chno="419" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_1_AL_logo_v2.png?1725287688" group-title="SPORT",Art Sport 1 HD KO
+#EXTINF:-1 tvg-chno="424" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_1_AL_logo_v2.png?1725287688" group-title="SPORT",Art Sport 1 HD KO
 http://169.150.223.25/ArtSport1HD/index.m3u8
-#EXTINF:-1 tvg-chno="420" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_2_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 2 HD KO
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_2_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 2 HD KO
 http://169.150.223.25/ArtSport2/index.m3u8
-#EXTINF:-1 tvg-chno="421" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_3_AL_logo_v3.png?1725288505" group-title="SPORT",Art Sport 3 HD KO
+#EXTINF:-1 tvg-chno="426" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_3_AL_logo_v3.png?1725288505" group-title="SPORT",Art Sport 3 HD KO
 http://169.150.223.25/ArtSport3/index.m3u8
-#EXTINF:-1 tvg-chno="422" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_4_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 4 HD KO
+#EXTINF:-1 tvg-chno="427" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_4_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 4 HD KO
 http://169.150.223.25/ArtSport4/index.m3u8
-#EXTINF:-1 tvg-chno="423" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_5_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 5 HD KO
+#EXTINF:-1 tvg-chno="428" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_5_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 5 HD KO
 http://169.150.223.25/ArtSport5/index.m3u8
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 6 HD KO
+#EXTINF:-1 tvg-chno="429" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 6 HD KO
 http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1 tvg-chno="433" tvg-name="SKY F1" group-title="SPORT",F1 ITA
+#EXTINF:-1 tvg-chno="430" tvg-name="SKY F1" group-title="SPORT",F1 ITA
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
-#EXTINF:-1 tvg-chno="434" tvg-name="SKY MOTOGP" group-title="SPORT",MOTOGP ITA
+#EXTINF:-1 tvg-chno="431" tvg-name="SKY MOTOGP" group-title="SPORT",MOTOGP ITA
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM

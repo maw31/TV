@@ -92,7 +92,7 @@ https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="RaiScuola.it" tvg-chno="57" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-id="RaiScuola.it" group-title="RAI",Rai Scuola 
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 #EXTINF:-1 tvg-name="RaiSport.it" tvg-chno="58" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" group-title="SPORT",Rai Sport 
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 #EXTINF:-1 tvg-name="Sportitalia Plus" tvg-chno="60" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Paramount.it" group-title="SPORT",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="SISoloCalcio.it" tvg-chno="61" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="SPORT",SI SoloCalcio

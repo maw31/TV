@@ -74,7 +74,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Super.it" tvg-chno="47" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-id="Super.it" group-title="RAGAZZI",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="RaiNews24.it" tvg-chno="48" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" group-title="NEWS",Rai News 24 
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
 #EXTINF:-1 tvg-name="Italia2.it" tvg-chno="49" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-id="Italia2.it" group-title="MEDIASET",Italia 2 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="SkyTG24.it" tvg-chno="50" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="SkyTG24.it" group-title="NEWS",Sky TG24 
@@ -90,9 +90,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="HGTV.it" tvg-chno="56" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-id="HGTVItaly.it" group-title="SAMSUNG",HGTV – Home & Garden Tv
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 #EXTINF:-1 tvg-name="RaiScuola.it" tvg-chno="57" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-id="RaiScuola.it" group-title="RAI",Rai Scuola 
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 #EXTINF:-1 tvg-name="RaiSport.it" tvg-chno="58" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" group-title="SPORT",Rai Sport 
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 #EXTINF:-1 tvg-name="Sportitalia Plus" tvg-chno="60" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Paramount.it" group-title="SPORT",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="SISoloCalcio.it" tvg-chno="61" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="SPORT",SI SoloCalcio
@@ -114,9 +114,9 @@ https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
 #EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="70" tvg-logo="https://logowik.com/content/uploads/images/rsi-la-1-hd2708.logowik.com.webp" group-title="RSI",RSI La1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="71" tvg-logo="https://logowik.com/content/uploads/images/rsi-la-2-hd6677.logowik.com.webp"  group-title="RSI",RSI La2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+https://netplus.zappr.stream/rsila2hd.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://images.seeklogo.com/logo-png/47/1/euronews-logo-png_seeklogo-470736.png"  group-title="News",Euronews Italia
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai4k.svg" group-title="RAI",Rai 4K
@@ -153,7 +153,7 @@ https://rai.zappr.stream/rai2.m3u8
 #EXTINF:-1 tvg-name="Canale5.it" tvg-chno="205" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-id="Canale5.it" group-title="BKP",Canale 5 
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 #EXTINF:-1 tvg-name="Italia1.it" tvg-chno="206" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="BKP",Italia 1 
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 #EXTINF:-1 tvg-name="Tv8.it" tvg-chno="208" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="BKP",TV8 
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-name="Nove.it" tvg-chno="209" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="BKP",Nove

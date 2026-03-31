@@ -68,7 +68,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTINF:-1 tvg-name="Frisbee.it" tvg-chno="44" tvg-logo="https://i.imgur.com/9y1zIAe.png" tvg-id="Frisbee.it" group-title="RAGAZZI",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 #EXTINF:-1 tvg-id="64ec5cf50f73a800081310a5"  tvg-name="Forensic Files" tvg-chno="45" tvg-logo="https://images.pluto.tv/channels/64ec5cf50f73a800081310a5/colorLogoPNG.png" group-title="Pluto TV Italia",Forensic Files
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=3730278c-5efe-42f9-9d31-0f7a0c5d906d&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=93841576-6aae-4730-a366-59ef60c1ced2
+https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
 #EXTINF:-1 tvg-name="Cartoonito.it" tvg-chno="46" tvg-logo="https://i.imgur.com/oK2DcDJ.png" tvg-id="CartoonitoItaly.it" group-title="RAGAZZI",Cartoonito 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Super.it" tvg-chno="47" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-id="Super.it" group-title="RAGAZZI",Super!

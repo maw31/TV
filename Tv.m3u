@@ -62,7 +62,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="K2.it" tvg-chno="41" tvg-logo="https://i.imgur.com/wlLgSiA.png" tvg-id="K2.it" group-title="RAGAZZI",K2
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1 tvg-name="RaiGulp.it" tvg-chno="42" tvg-logo="https://i.imgur.com/lu1DPVb.png" tvg-id="RaiGulp.it" group-title="RAGAZZI",Rai Gulp 
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+https://rai.zappr.stream/raigulp.m3u8
 #EXTINF:-1 tvg-name="RaiYoyo.it" tvg-chno="43" tvg-logo="https://i.imgur.com/DRSa3ys.png" tvg-id="RaiYoyo.it" group-title="RAGAZZI",Rai YoYo 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Frisbee.it" tvg-chno="44" tvg-logo="https://i.imgur.com/9y1zIAe.png" tvg-id="Frisbee.it" group-title="RAGAZZI",Frisbee

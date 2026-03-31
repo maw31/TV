@@ -132,17 +132,19 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="Gamberorosso.it" tvg-chno="108" tvg-logo="https://static.gamberorosso.it/2025/04/cropped-gambero-rosso.jpg" group-title="SKY",Gambero Rosso
 https://jmp2.uk/stvp-IT500011RG
-#EXTINF:-1 tvg-id="Tele Norba" tvg-chno="109" tvg-logo="https://cdn.telenorba.it/static/2023/01/cropped-norbaonline-favicon-192x192.png" tvg-name="Tele Norba" group-title="NORBA",Telenorba
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
-#EXTINF:-1 tvg-id="Tele Norba" tvg-chno="110" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/tgnorba24.svg" group-title="NORBA",TG Norba 24
-https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Radio Norba Tv" tvg-chno="111" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="RADIO TV",Radio Norba Tv
+#EXTINF:-1 tvg-id="Antenna Sud Extra" tvg-chno="109" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" tvg-name="Tele Norba" group-title="REGIONALE",Antenna Sud Extra
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
+#EXTINF:-1 tvg-id="Antenna Sud" tvg-chno="110" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" tvg-name="Tele Norba" group-title="REGIONALE",Antenna Sud 
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
+#EXTINF:-1 tvg-id="Tele Norba" tvg-chno="111" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/tgnorba24.svg" group-title="NORBA",TG Norba 24
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+#EXTINF:-1 tvg-name="Radio Norba Tv" tvg-chno="112" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="RADIO TV",Radio Norba Tv
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Tele Sud Puglia" tvg-chno="112" tvg-logo="https://i.imgur.com/fqTLtvs.png" group-title="REGIONALE",Tele Sud Puglia
+#EXTINF:-1 tvg-name="Tele Sud Puglia" tvg-chno="113" tvg-logo="https://i.imgur.com/fqTLtvs.png" group-title="REGIONALE",Tele Sud Puglia
 https://64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8
-#EXTINF:-1 tvg-name="Telerama" tvg-chno="113" tvg-logo="https://i.imgur.com/enfqUlI.jpg" group-title="REGIONALE",Telerama
+#EXTINF:-1 tvg-name="Telerama" tvg-chno="114" tvg-logo="https://i.imgur.com/enfqUlI.jpg" group-title="REGIONALE",Telerama
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Studio 100" tvg-chno="114" tvg-logo="https://www.tvdream.net/img/studio100.png" group-title="REGIONALE",Studio 100
+#EXTINF:-1 tvg-name="Studio 100" tvg-chno="115" tvg-logo="https://www.tvdream.net/img/studio100.png" group-title="REGIONALE",Studio 100
 https://cdn16.streamshow.it/cloud-studio100/studio100/manifest.mpd
 #EXTINF:-1 tvg-name="Padre Pio Tv" tvg-chno="145" tvg-logo="https://i.imgur.com/7ajxEPH.png" group-title="ALTRO",Padre Pio Tv
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8

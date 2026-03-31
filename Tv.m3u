@@ -262,17 +262,17 @@ http://65.108.239.207/t3/index.m3u8
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_4_TR_logo_v2.png?1733731049" group-title="SPORT",Tivibu Spor 4 TR
 http://65.108.239.207/t4/index.m3u8
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_1_AL_logo_v2.png?1725287688" group-title="SPORT",Art Sport 1 HD KO
-http://169.150.223.25/ArtSport1HD/index.m3u8
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_2_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 2 HD KO
-http://169.150.223.25/ArtSport2/index.m3u8
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
 #EXTINF:-1 tvg-chno="426" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_3_AL_logo_v3.png?1725288505" group-title="SPORT",Art Sport 3 HD KO
-http://169.150.223.25/ArtSport3/index.m3u8
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_4_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 4 HD KO
-http://169.150.223.25/ArtSport4/index.m3u8
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
 #EXTINF:-1 tvg-chno="428" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_5_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 5 HD KO
-http://169.150.223.25/ArtSport5/index.m3u8
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1 tvg-chno="429" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 6 HD KO
-http://169.150.223.25/ArtSport6/index.m3u8
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-name="SKY F1" group-title="SPORT",F1 ITA
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 #EXTINF:-1 tvg-chno="431" tvg-name="SKY MOTOGP" group-title="SPORT",MOTOGP ITA

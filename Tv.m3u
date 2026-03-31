@@ -131,7 +131,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="RaiPremiumWorld.it" tvg-chno="107"tvg-logo="https://resources.italianmedia.com.au/images/rai-italia.png" group-title="Rai estero",Rai Premium World
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="Gamberorosso.it" tvg-chno="108" tvg-logo="https://static.gamberorosso.it/2025/04/cropped-gambero-rosso.jpg" group-title="SKY",Gambero Rosso
-https://www.dailymotion.com/cdn/live/video/x9u215s.mpd?sec=3FE6qHnAR5mSywqiY3XmMw
+https://jmp2.uk/stvp-IT500011RG
 #EXTINF:-1 tvg-id="Tele Norba" tvg-chno="109" tvg-logo="https://cdn.telenorba.it/static/2023/01/cropped-norbaonline-favicon-192x192.png" tvg-name="Tele Norba" group-title="NORBA",Telenorba
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 #EXTINF:-1 tvg-id="Tele Norba" tvg-chno="110" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/tgnorba24.svg" group-title="NORBA",TG Norba 24

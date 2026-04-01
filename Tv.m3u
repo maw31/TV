@@ -215,6 +215,10 @@ https://icy.unitedradio.it/SubasioPiu.mp3
 https://icy.unitedradio.it/Suby.mp3
 #EXTINF:-1 tvg-name="Radio Subasio Per un'ora d'Amore" tvg-chno="322" tvg-logo="https://www.radiosubasio.it/player/src/assets/logo/radiosubasio.png" tvg-id="RadioSubasio.it" group-title="Radio",Radio Subasio Per un'ora d'Amore
 https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
+#EXTINF:-1 tvg-name="MC2 Smooth Jazz" tvg-chno="323" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/mc2smoothjazz.png" tvg-id="MC2 Smooth Jazz" group-title="Radio",MC2 Smooth Jazz
+https://stream.rcs.revma.com/4t617kep81uvv
+#EXTINF:-1 tvg-name="MC2 Cafè Del Mar Collection" tvg-chno="324" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/optimized/mc2caf%C3%A8delmarcollection.webp" tvg-id="MC2 Cafè Del Mar Collection" group-title="Radio",MC2 Cafè Del Mar Collection
+https://stream.rcs.revma.com/bn68enmp81uvv
 #EXTINF:-1 tvg-chno="400" tvg-name="SKY F1" group-title="SPORT", Sky Sport *F1 SD (non sempre attivo)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-chno="401" tvg-name="CBS.Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="SPORT",CBS SPORTS NETWORK US

@@ -260,13 +260,13 @@ http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="419" tvg-logo="https://e7.pngegg.com/pngimages/320/905/png-clipart-albania-supersport-digitalb-television-streaming-media-others-television-blue.png" group-title="SPORT",Super Sport 3 AL
 http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_TR_logo_v2.png?1747139940" group-title="SPORT",Tivibu Spor 1 TR
-http://65.108.239.207/t1/index.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_2_TR_logo_v2.png?1733730885" group-title="SPORT",Tivibu Spor 2 TR
-http://65.108.239.207/t2/index.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-chno="422" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_3_TR_logo_v2.png?1733730977" group-title="SPORT",Tivibu Spor 3 TR
-http://65.108.239.207/t3/index.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_4_TR_logo_v2.png?1733731049" group-title="SPORT",Tivibu Spor 4 TR
-http://65.108.239.207/t4/index.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_1_AL_logo_v2.png?1725287688" group-title="SPORT",Art Sport 1 HD KO
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_2_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 2 HD KO

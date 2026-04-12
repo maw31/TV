@@ -293,6 +293,11 @@ http://cdn.tv-rds.workers.dev/SkySportArenaIT.m3u8
 http://cdn.tv-rds.workers.dev/SkySportF1.m3u8
 #EXTINF:-1 tvg-chno="431" tvg-name="SKY MOTOGP" group-title="SPORT",MOTOGP I
 http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8
+#EXTINF:-1 group-title="Freeshot ITA" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
+http://cdn.tv-rds.workers.dev/EURO1IT.m3u8
+#EXTINF:-1 group-title="Freeshot ITA" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 
+http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
+
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM
 #EXTINF:-1 channel-id="ITBC1100008L4" tvg-id="ITBC1100008L4" tvg-chno="4003" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20260224T031348SQUARE.png" group-title="Film",Alberto Sordi & Co

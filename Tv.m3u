@@ -30,7 +30,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 #EXTINF:-1 tvg-name="RaiPremium.it" tvg-chno="25" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-id="RaiPremium.it" group-title="RAI",Rai Premium 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="CieloTv.it" tvg-chno="26" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="CieloTV.it" group-title="SKY",Cielo 
-http://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/2
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-name="TwentySeven.it" tvg-chno="27" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="27Twentyseven.it" group-title="MEDIASET",27 Twentyseven 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="TV2000.it" tvg-chno="28" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" group-title="ALTRO",TV 2000
@@ -157,12 +157,14 @@ https://rai.zappr.stream/rai2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 #EXTINF:-1 tvg-name="Italia1.it" tvg-chno="206" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="BKP",Italia 1 
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
-#EXTINF:-1 tvg-name="La7.it" tvg-chno="7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="LA7",La7
+#EXTINF:-1 tvg-name="La7.it" tvg-chno="7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="BKP",La7
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 tvg-name="Tv8.it" tvg-chno="208" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="BKP",TV8 
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-name="Nove.it" tvg-chno="209" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="BKP",Nove
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
+#EXTINF:-1 tvg-name="CieloTv.it" tvg-chno="26" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="CieloTV.it" group-title="BKP",Cielo 
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/2
 #EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiomontecarlo.webp" group-title="BKP",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd

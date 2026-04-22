@@ -12,7 +12,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Italia1.it" tvg-chno="6" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="MEDIASET",Italia 1 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="La7.it" tvg-chno="7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="LA7",La7
-http://cdn.tv-rds.workers.dev/La7.m3u8
+https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 tvg-name="Tv8.it" tvg-chno="8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="SKY",TV8 
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/7
 #EXTINF:-1 tvg-name="Nove.it" tvg-chno="9" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="Italy",Nove
@@ -158,7 +158,7 @@ https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 #EXTINF:-1 tvg-name="Italia1.it" tvg-chno="206" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="BKP",Italia 1 
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 #EXTINF:-1 tvg-name="La7.it" tvg-chno="7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="BKP",La7
-https://jmp2.uk/stvp-ITBD1500002NL
+http://cdn.tv-rds.workers.dev/La7.m3u8
 #EXTINF:-1 tvg-name="Tv8.it" tvg-chno="208" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="BKP",TV8 
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-name="Nove.it" tvg-chno="209" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="BKP",Nove

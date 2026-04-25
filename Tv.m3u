@@ -284,23 +284,23 @@ http://79.127.207.193:80/ArtSport4/playlist.m3u8
 http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1 tvg-chno="429" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 6 HD KO
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
-#EXTINF:-1 group-title="mooncrowngit" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sk@y SPORT 24 I
+#EXTINF:-1 group-title="mooncrowngitIT" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sk@y SPORT 24 I
 http://cdn.tv-rds.workers.dev/SkySport24IT.m3u8
-#EXTINF:-1 tvg-id="435407" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png",Sk@y Sport Calcio I
+#EXTINF:-1  tvg-chno="430" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png",Sk@y Sport Calcio I
 http://cdn.tv-rds.workers.dev/SkySportCalcioIT.m3u8
-#EXTINF:-1 tvg-id="435390" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png",Sk@y Sport Max I
+#EXTINF:-1  tvg-chno="431" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png",Sk@y Sport Max I
 http://cdn.tv-rds.workers.dev/SkySportMaxIT.m3u8
-#EXTINF:-1 tvg-id="406907" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
+#EXTINF:-1  tvg-chno="432" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
 http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8
-#EXTINF:-1 tvg-id="" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Arena-Logo.png",Sk@y Sports Arena I
+#EXTINF:-1  tvg-chno="433" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Arena-Logo.png",Sk@y Sports Arena I
 http://cdn.tv-rds.workers.dev/SkySportArenaIT.m3u8
-#EXTINF:-1 tvg-chno="430" tvg-name="SKY F1" group-title="SPORT",F1 I
+#EXTINF:-1 tvg-chno="434" tvg-name="SKY F1" group-title="SPORT",F1 I
 http://cdn.tv-rds.workers.dev/SkySportF1.m3u8
-#EXTINF:-1 tvg-chno="431" tvg-name="SKY MOTOGP" group-title="SPORT",MOTOGP I
+#EXTINF:-1 tvg-chno="435" tvg-name="SKY MOTOGP" group-title="SPORT",MOTOGP I
 http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8
-#EXTINF:-1 group-title="Freeshot ITA" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
+#EXTINF:-1  tvg-chno="436" group-title="Freeshot ITA" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
 http://cdn.tv-rds.workers.dev/EURO1IT.m3u8
-#EXTINF:-1 group-title="Freeshot ITA" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 
+#EXTINF:-1  tvg-chno="437" group-title="Freeshot ITA" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 
 http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
 
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore

@@ -286,9 +286,24 @@ http://79.127.207.193:80/ArtSport5/playlist.m3u8
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:-1  tvg-chno="431" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
 http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8
-#EXTINF:-1  tvg-chno="432" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis 
+#EXTINF:-1  tvg-chno="432" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png",Sk@y Sport Max I
+http://cdn.tv-rds.workers.dev/SkySportMaxIT.m3u8
+#EXTINF:-1  tvg-chno="433" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
+http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8
+#EXTINF:-1  tvg-chno="434" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Arena-Logo.png",Sk@y Sports Arena I
+http://cdn.tv-rds.workers.dev/SkySportArenaIT.m3u8
+#EXTINF:-1 tvg-chno="435" tvg-name="SKY F1" group-title="SPORT",F1 I
+http://cdn.tv-rds.workers.dev/SkySportF1.m3u8
+#EXTINF:-1 tvg-chno="436" tvg-name="SKY MOTOGP" group-title="SPORT",MOTOGP I
+http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8
+#EXTINF:-1 tvg-chno="437" group-title="Freeshot ITA" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
+http://cdn.tv-rds.workers.dev/EURO1IT.m3u8
+#EXTINF:-1 tvg-chno="438" group-title="Freeshot ITA" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 
+http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
+#EXTINF:-1 tvg-chno="438" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",Sk@y Sport Mix I
+http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8
+#EXTINF:-1  tvg-chno="439" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis 
 http://lb.wisp.cat/lb0/DE_Sky_Sport_Tennis_HD/video.m3u8?token=AUSnMTD
-
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM
 #EXTINF:-1 channel-id="ITBC1100008L4" tvg-id="ITBC1100008L4" tvg-chno="4003" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20260224T031348SQUARE.png" group-title="Film",Alberto Sordi & Co

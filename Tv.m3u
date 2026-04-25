@@ -302,8 +302,10 @@ http://cdn.tv-rds.workers.dev/EURO1IT.m3u8
 http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
 #EXTINF:-1 tvg-chno="438" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",Sk@y Sport Mix I
 http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8
-#EXTINF:-1  tvg-chno="439" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis 
+#EXTINF:-1 tvg-chno="439" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis 
 http://lb.wisp.cat/lb0/DE_Sky_Sport_Tennis_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-chno="440" group-title="⚽️🇮🇹|Live Serie A",25/04 11:00 PM | Bologna vs Roma (DAZN 1 Italia HD)
+http://lb.wisp.cat/lb0/DAZN_1_ES/video.m3u8?token=AUSnMTD
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM
 #EXTINF:-1 channel-id="ITBC1100008L4" tvg-id="ITBC1100008L4" tvg-chno="4003" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20260224T031348SQUARE.png" group-title="Film",Alberto Sordi & Co

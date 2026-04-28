@@ -302,9 +302,15 @@ http://cdn.tv-rds.workers.dev/EURO1IT.m3u8
 http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
 #EXTINF:-1 tvg-chno="438" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",Sk@y Sport Mix I
 http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8
+#EXTINF:-1 group-title="Live Tennis" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png",Sky Sports Main Event
+http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8
 #EXTINF:-1 tvg-chno="439" group-title="Love4vngit" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis 
 http://lb.wisp.cat/lb0/DE_Sky_Sport_Tennis_HD/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-chno="440" group-title="⚽️🇮🇹|Live Serie A",25/04 11:00 PM | Bologna vs Roma (DAZN 1 Italia HD)
+#EXTINF:-1 tvg-id="470550" group-title="Live Tennis" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
+http://cdn.tv-rds.workers.dev/TSN2.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live Tennis" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sky Sports Tennis
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Tennis_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-chno="440" group-title="Live Serie A,DAZN 1 Italia HD
 http://lb.wisp.cat/lb0/DAZN_1_ES/video.m3u8?token=AUSnMTD
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM

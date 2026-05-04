@@ -207,7 +207,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="radio1sport.it" tvg-chno="315" tvg-logo="https://www.raiplaysound.it/cropgd/1200x630/dl/img/2023/04/19/1681891673637_logo-radio-1-sport-2048x2048.png" group-title="Radio",Rai Radio 1 Sport
 https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/playlist.m3u8
 #EXTINF:-1 tvg-name="RadioPOOH.it" tvg-chno="316" tvg-logo="https://radiopooh.it/wp-content/uploads/2025/02/cropped-favicon-192x192.jpg" tvg-id="RadioPOOH.it" group-title="Radio",Radio POOH
-https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest.mpd
+https://pooh.fluid.stream/RadioPoohTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="PinkFloyd" tvg-chno="317" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Pink-Floyd-Symbol.png" tvg-id="PinkFloyd.it" group-title="Radio",Pink Floyd
 https://icy.unitedradio.it/VirginRogerWaters.mp3
 #EXTINF:-1 tvg-name="Queen" tvg-chno="318" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1200x1200bf-60.jpg" tvg-id="Queen.it" group-title="Radio",Queen

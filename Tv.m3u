@@ -270,7 +270,6 @@ http://lb.wisp.cat/lb0/PL_ELEVEN_SPORTS_4_HD/video.m3u8?token=AUSnMTD
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105528
 #EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png",ELEVEN SPORTS 4 PL
 http://cdn.tv-rds.workers.dev/ElevenSports4PL.m3u8
-
 #EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-chno="412" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv1.webp" group-title="SPORT",SPORTTV 1
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
 #EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-chno="413" tvg-logo="https://tvepg.eu/img/portugal/logo/sport-tv2.webp" group-title="SPORT",SPORTTV 2

@@ -299,7 +299,7 @@ http://79.127.207.193:80/ArtSport4/playlist.m3u8
 http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1 tvg-chno="429" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 6 HD KO
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
-#EXTINF:-1 tvg-chno="430" group-title="ITAIPTV" tvg-logo="" group-title="Italian",Skx Cinema Action
+#EXTINF:-1 tvg-chno="430" group-title="ITAIPTV" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_action_logo.png" group-title="Italian",Skx Cinema Action
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1616.m3u8
 #EXTINF:-1 tvg-chno="431" group-title="ITAIPTV" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_comedy_logo.png" group-title="Italian",Skx Cinema comedy
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1620.m3u8

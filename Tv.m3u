@@ -15,7 +15,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-name="Tv8.it" tvg-chno="8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="SKY",TV8 
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556#EXTINF:-1 tvg-name="Nove.it" tvg-chno="9" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="Italy",Nove
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nove.svg" group-title="Discovery",NOVE
+http://locatelliresults.homepc.it:1880/channel/discovery/3
 #EXTINF:-1 tvg-name="20Mediaset.it" tvg-chno="20" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-id="20.it" group-title="MEDIASET",20 Mediaset 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Rai4.it" tvg-chno="21" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-id="Rai4.it" group-title="RAI",Rai 4 
@@ -29,7 +30,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 #EXTINF:-1 tvg-name="RaiPremium.it" tvg-chno="25" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-id="RaiPremium.it" group-title="RAI",Rai Premium 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="CieloTv.it" tvg-chno="26" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="CieloTV.it" group-title="SKY",Cielo 
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/2
 #EXTINF:-1 tvg-name="TwentySeven.it" tvg-chno="27" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="27Twentyseven.it" group-title="MEDIASET",27 Twentyseven 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="TV2000.it" tvg-chno="28" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" group-title="ALTRO",TV 2000
@@ -40,11 +41,11 @@ https://d1aud3ze4v205y.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd?Expires=177662101
 #EXTINF:-1 tvg-name="LA5.it" tvg-chno="30" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-id="La5.it" group-title="MEDIASET",La 5 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="RealTime.it" tvg-chno="31" tvg-logo="https://i.imgur.com/9dcTYg1.png" tvg-id="RealTime.it" group-title="DISCOVERY",Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+http://locatelliresults.homepc.it:1880/channel/discovery/2
 #EXTINF:-1 tvg-name="QVC.it" tvg-chno="32" tvg-logo="https://i.imgur.com/Ea7iUX2.png" tvg-id="QVC.it" group-title="ALTRO",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-name="FoodNetwork.it" tvg-chno="33" tvg-logo="https://i.imgur.com/i60OYr9.png" tvg-id="FoodNetwork.it" group-title="ALTRO",Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+http://locatelliresults.homepc.it:1880/channel/discovery/6
 #EXTINF:-1 tvg-name="Cine34.it" tvg-chno="34" tvg-logo="https://i.imgur.com/YyldwhI.png" tvg-id="Cine34.it" group-title="MEDIASET",Cine34   
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Focus.it" tvg-chno="35" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-id="Focus.it" group-title="MEDIASET",Focus 
@@ -52,9 +53,11 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-id="RTL1025TV.it" group-title="RADIO TV",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 #EXTINF:-1 tvg-name="DiscoveryChannel.it" tvg-chno="37" tvg-logo="https://discovery.it/static/1.47.0/it/discoverychannelit/icons/apple-touch-icon-1024x1024.png" tvg-id="WarnerTV.it" group-title="DISCOVERY",Warner Bros
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+http://locatelliresults.homepc.it:1880/channel/discovery/12
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/discoveryturbo.svg" group-title="Discovery",Motor Trend
+http://locatelliresults.homepc.it:1880/channel/discovery/11
 #EXTINF:-1 tvg-name="GialloTV.it" tvg-chno="38" tvg-logo="https://i.imgur.com/0PIRwZS.png" tvg-id="GialloTV.it" group-title="DISCOVERY",Giallo
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+http://locatelliresults.homepc.it:1880/channel/discovery/27
 #EXTINF:-1 tvg-name="TopCrime.it" tvg-chno="39" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-id="TopCrime.it" group-title="MEDIASET",Top Crime   
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Boing.it" tvg-chno="40" tvg-logo="https://i.imgur.com/niSlrqT.png" tvg-id="BoingItaly.it" group-title="RAGAZZI",BOING   
@@ -82,13 +85,13 @@ http://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/1
 #EXTINF:-1 tvg-name="TGCom24.it" tvg-chno="51" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom24.it" group-title="NEWS",TGCOM 24 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="DMAX.it" tvg-chno="52" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-id="DMAXItaly.it" group-title="DISCOVERY",DMAX
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+http://locatelliresults.homepc.it:1880/channel/discovery/4
 #EXTINF:-1 tvg-name="RaiStoria.it" tvg-chno="54" tvg-logo="https://i.imgur.com/K8y5q8x.png" tvg-id="RaiStoria.it" group-title="RAI",Rai Storia 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="MediasetExtra.it" tvg-chno="55" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-id="MediasetExtra.it" group-title="MEDIASET",Mediaset Extra 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="HGTV.it" tvg-chno="56" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-id="HGTVItaly.it" group-title="SAMSUNG",HGTV – Home & Garden Tv
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+http://locatelliresults.homepc.it:1880/channel/discovery/13
 #EXTINF:-1 tvg-name="RaiScuola.it" tvg-chno="57" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-id="RaiScuola.it" group-title="RAI",Rai Scuola 
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 #EXTINF:-1 tvg-name="RaiSport.it" tvg-chno="58" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" group-title="SPORT",Rai Sport 
@@ -114,9 +117,9 @@ https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
 #EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="70" tvg-logo="https://logowik.com/content/uploads/images/rsi-la-1-hd2708.logowik.com.webp" group-title="RSI",RSI La1
-https://netplus.zappr.stream/rsila1hd.m3u8
+https://lb.adriatelekom.com/RSILa1/index.m3u8
 #EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="71" tvg-logo="https://logowik.com/content/uploads/images/rsi-la-2-hd6677.logowik.com.webp"  group-title="RSI",RSI La2
-https://netplus.zappr.stream/rsila2hd.m3u8
+https://lb.adriatelekom.com/RSILa2/index.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://images.seeklogo.com/logo-png/47/1/euronews-logo-png_seeklogo-470736.png"  group-title="News",Euronews Italia
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai4k.svg" group-title="RAI",Rai 4K
@@ -299,6 +302,10 @@ http://79.127.207.193:80/ArtSport4/playlist.m3u8
 http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1 tvg-chno="429" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 6 HD KO
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-id="SkyUno.it" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sky",Sky Uno
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/881
+#EXTINF:-1 tvg-chno="431" tvg-id="SkySerie.it" tvg-chno="111" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sky",Sky Serie
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/880
 #EXTINF:-1 tvg-chno="430" group-title="ITAIPTV" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_action_logo.png" group-title="Italian",Skx Cinema Action
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1616.m3u8
 #EXTINF:-1 tvg-chno="431" group-title="ITAIPTV" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_comedy_logo.png" group-title="Italian",Skx Cinema comedy
@@ -307,6 +314,10 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1620.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1621.m3u8
 #EXTINF:-1 tvg-id="433" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sky Sport 24 IT
 http://cdn.tv-rds.workers.dev/SkySport24IT.m3u8
+#EXTINF:-1 tvg-id="433" tvg-id="SkySportUno.it" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportUnoIT
+#EXTINF:-1 tvg-id="433" tvg-id="SkySportCalcio.it" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Calcio
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
 #EXTINF:-1  tvg-chno="434" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
 http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8
 #EXTINF:-1  tvg-chno="435" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png",Sk@y Sport Max I
@@ -329,6 +340,29 @@ http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8
 http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8
 #EXTINF:-1 tvg-chno="444" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png",Sky Sport Calcio IT
 http://cdn.tv-rds.workers.dev/SkySportCalcioIT.m3u8
+#EXTINF:-1 tvg-id="SkySportCalcio1.it" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 251 HD
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/871
+
+#EXTINF:-1 tvg-id="SkySportCalcio2.it" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 252 HD
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/872
+
+#EXTINF:-1 tvg-id="SkySportCalcio3.it" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 253 HD
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/873
+
+#EXTINF:-1 tvg-id="SkySportCalcio4.it" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 254 HD
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/874
+
+
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",Eurosport 1
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro1IT
+
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",Eurosport 2
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro2IT
+
+#EXTINF:-1 tvg-id="Dazn1.it" tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sport",Zona Dazn
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
+
+
 #EXTINF:-1 tvg-chno="445" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona DAZ IT
 http://cdn.tv-rds.workers.dev/ZonaDAZN.m3u8
 #EXTINF:-1 tvg-chno="446" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="Diğer",TSN1

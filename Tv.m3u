@@ -322,67 +322,69 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/865
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/868
 #EXTINF:-1 tvg-chno="436" group-title="ITAIPTV" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sky Sport 24 IT
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/869
-#EXTINF:-1 tvg-chno="436" group-title="ITAIPTV" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sky Sport 24 IT
+#EXTINF:-1 tvg-chno="437" group-title="ITAIPTV" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sky Sport 24 IT
 http://cdn.tv-rds.workers.dev/SkySport24IT.m3u8
-#EXTINF:-1 tvg-chno="436" group-title="ITAIPTV" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
+#EXTINF:-1 tvg-chno="438" group-title="ITAIPTV" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/461
-#EXTINF:-1 tvg-chno="436" group-title="ITAIPTV" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
+#EXTINF:-1 tvg-chno="439" group-title="ITAIPTV" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportUnoIT
-#EXTINF:-1 tvg-chno="437" group-title="ITAIPTV" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Calcio
+#EXTINF:-1 tvg-chno="440" group-title="ITAIPTV" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Calcio
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
-#EXTINF:-1  tvg-chno="438" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
+#EXTINF:-1  tvg-chno="441" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
 http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8
-#EXTINF:-1  tvg-chno="440" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
+#EXTINF:-1  tvg-chno="442" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/576
-#EXTINF:-1  tvg-chno="439" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png",Sk@y Sport Max I
+#EXTINF:-1  tvg-chno="443" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png",Sk@y Sport Max I
 http://cdn.tv-rds.workers.dev/SkySportMaxIT.m3u8
-#EXTINF:-1  tvg-chno="441" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Arena-Logo.png",Sk@y Sports Arena I
+#EXTINF:-1  tvg-chno="444" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Arena-Logo.png",Sk@y Sports Arena I
 http://cdn.tv-rds.workers.dev/SkySportArenaIT.m3u8
-#EXTINF:-1 tvg-chno="442" tvg-name="SKY F1" group-title="ITAIPTV",F1 I
+#EXTINF:-1 tvg-chno="445" tvg-name="SKY F1" group-title="ITAIPTV",F1 I
 http://cdn.tv-rds.workers.dev/SkySportF1.m3u8
-#EXTINF:-1 tvg-chno="443" tvg-name="SKY MOTOGP" group-title="ITAIPTV",MOTOGP I
+#EXTINF:-1 tvg-chno="446" tvg-name="SKY F1" group-title="ITAIPTV",F1 I
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/577
+#EXTINF:-1 tvg-chno="447" tvg-name="SKY MOTOGP" group-title="ITAIPTV",MOTOGP I
 http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8
-#EXTINF:-1 tvg-chno="444" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
+#EXTINF:-1 tvg-chno="448" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
 http://cdn.tv-rds.workers.dev/EURO1IT.m3u8
-#EXTINF:-1 tvg-chno="445" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 
+#EXTINF:-1 tvg-chno="449" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 
 http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
-#EXTINF:-1 tvg-chno="446"  group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",Sk@y Sport Mix I
+#EXTINF:-1 tvg-chno="450"  group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",Sk@y Sport Mix I
 http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8
-#EXTINF:-1 tvg-chno="447" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png",Sky Sports Main Event
+#EXTINF:-1 tvg-chno="451" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png",Sky Sports Main Event
 http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8
-#EXTINF:-1 tvg-chno="448" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png",Sky Sport Calcio IT
+#EXTINF:-1 tvg-chno="452" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png",Sky Sport Calcio IT
 http://cdn.tv-rds.workers.dev/SkySportCalcioIT.m3u8
-#EXTINF:-1 tvg-chno="449" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 251 HD
+#EXTINF:-1 tvg-chno="453" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 251 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/871
-#EXTINF:-1 tvg-chno="450" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 252 HD
+#EXTINF:-1 tvg-chno="454" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 252 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/872
-#EXTINF:-1 tvg-chno="4451" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 253 HD
+#EXTINF:-1 tvg-chno="455" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 253 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/873
-#EXTINF:-1 tvg-chno="452" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 254 HD
+#EXTINF:-1 tvg-chno="456" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 254 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/874
-#EXTINF:-1 tvg-chno="452" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 255 HD
+#EXTINF:-1 tvg-chno="457" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 255 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/875
-#EXTINF:-1 tvg-chno="452" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 256 HD
+#EXTINF:-1 tvg-chno="458" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 256 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/876
-#EXTINF:-1 tvg-chno="453" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",Eurosport 1
+#EXTINF:-1 tvg-chno="459" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",Eurosport 1
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro1IT
-#EXTINF:-1 tvg-chno="454" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",Eurosport 2
+#EXTINF:-1 tvg-chno="460" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",Eurosport 2
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro2IT
-#EXTINF:-1 tvg-chno="455" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sport",Zona Dazn
+#EXTINF:-1 tvg-chno="461" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sport",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
-#EXTINF:-1 tvg-chno="456" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Extra",Zona Dazn
+#EXTINF:-1 tvg-chno="462" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Extra",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/877
-#EXTINF:-1 tvg-chno="457" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona DAZ IT
+#EXTINF:-1 tvg-chno="463" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona DAZ IT
 http://cdn.tv-rds.workers.dev/ZonaDAZN.m3u8
-#EXTINF:-1 tvg-chno="458" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="Diğer",TSN1
+#EXTINF:-1 tvg-chno="464" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="Diğer",TSN1
 http://cdn.tv-rds.workers.dev/TSN1.m3u8
-#EXTINF:-1 tvg-chno="459" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
+#EXTINF:-1 tvg-chno="465" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
 http://cdn.tv-rds.workers.dev/TSN2.m3u8
-#EXTINF:-1 tvg-chno="460" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png" group-title="Diğer",TSN3
+#EXTINF:-1 tvg-chno="466" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png" group-title="Diğer",TSN3
 http://cdn.tv-rds.workers.dev/TSN3.m3u8
-#EXTINF:-1 tvg-chno="461" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png" group-title="Diğer",TSN4
+#EXTINF:-1 tvg-chno="467" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png" group-title="Diğer",TSN4
 http://cdn.tv-rds.workers.dev/TSN5.m3u8
-#EXTINF:-1 tvg-chno="462" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png" group-title="Diğer",TSN5
+#EXTINF:-1 tvg-chno="468" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png" group-title="Diğer",TSN5
 http://cdn.tv-rds.workers.dev/TSN5.m3u8
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM

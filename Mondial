@@ -1,1 +1,29 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-chno="461" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sport",Zona Dazn
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
+#EXTINF:-1 tvg-chno="462" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Extra",Zona Dazn
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/877
+#EXTINF:-1 tvg-chno="463" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona DAZ IT
+http://cdn.tv-rds.workers.dev/ZonaDAZN.m3u8
+#EXTINF:-1 tvg-chno="464" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="Diğer",TSN1
+http://cdn.tv-rds.workers.dev/TSN1.m3u8
+#EXTINF:-1 tvg-chno="465" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
+http://cdn.tv-rds.workers.dev/TSN2.m3u8
+#EXTINF:-1 tvg-chno="466" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png" group-title="Diğer",TSN3
+http://cdn.tv-rds.workers.dev/TSN3.m3u8
+#EXTINF:-1 tvg-chno="467" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png" group-title="Diğer",TSN4
+http://cdn.tv-rds.workers.dev/TSN5.m3u8
+#EXTINF:-1 tvg-chno="468" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png" group-title="Diğer",TSN5
+http://cdn.tv-rds.workers.dev/TSN5.m3u8
+#EXTINF:-1 tvg-chno="469" group-title="ITAIPTV" , Dazn 1 
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+#EXTINF:-1 tvg-chno="469" group-title="ITAIPTV" , Dazn 1 
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+#EXTINF:-1 tvg-chno="469" group-title="ITAIPTV" , Dazn 2 
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+#EXTINF:-1 tvg-chno="469" group-title="ITAIPTV" , Dazn 3 
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+#EXTINF:-1tvg-chno="469" group-title="ITAIPTV" , Dazn 4 
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+#EXTINF:-1 tvg-chno="469" group-title="ITAIPTV" , Dazn 5 
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8

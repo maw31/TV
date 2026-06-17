@@ -394,19 +394,25 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/113
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/114
 #EXTINF:-1 tvg-chno="468" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png" group-title="Diğer",TSN5
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/115
-#EXTINF:-1 tvg-chno="469" group-title="Mondiale" , Dazn 1 🇵🇹
+#EXTINF:-1 tvg-chno="469" group-title="Mondiale" , Dazn 1 
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
-#EXTINF:-1 tvg-chno="470" group-title="Mondiale" , Dazn 1 🇵🇹
+#EXTINF:-1 tvg-chno="470" group-title="Mondiale" , Dazn 1 
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
-#EXTINF:-1 tvg-chno="471" group-title="Mondiale" , Dazn 2 🇵🇹
+#EXTINF:-1 tvg-chno="471" group-title="Mondiale" , Dazn 2 
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
-#EXTINF:-1 tvg-chno="472" group-title="Mondiale" , Dazn 3 🇵🇹
+#EXTINF:-1 tvg-chno="472" group-title="Mondiale" , Dazn 3 
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
-#EXTINF:-1tvg-chno="473" group-title="Mondiale" , Dazn 4 🇵🇹
+#EXTINF:-1tvg-chno="473" group-title="Mondiale" , Dazn 4 
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
-#EXTINF:-1 tvg-chno="474" group-title="Mondiale" , Dazn 5 🇵🇹
+#EXTINF:-1 tvg-chno="474" group-title="Mondiale" , Dazn 5 
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-#EXTINF:-1 tvg-chno="475" group-title="Mondiale" , Arena Premium 1 HD
+#EXTINF:-1 tvg-chno="475" group-title="Mondiale" , SPORT TV 1 POR
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/49
+#EXTINF:-1 tvg-chno="476" group-title="Mondiale" , SPORT TV 2 POR
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/74
+#EXTINF:-1 tvg-chno="477" group-title="Mondiale" , SPORT TV 3 POR
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/74
+#EXTINF:-1 tvg-chno="47" group-title="Mondiale" , Arena Premium 1 HD
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Film",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM
 #EXTINF:-1 channel-id="ITBC1100008L4" tvg-id="ITBC1100008L4" tvg-chno="4003" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20260224T031348SQUARE.png" group-title="Film",Alberto Sordi & Co

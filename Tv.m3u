@@ -102,8 +102,6 @@ https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 #EXTINF:-1 tvg-name="Sportitalia Plus" tvg-chno="60" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Paramount.it" group-title="SPORT",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TG Norba 24" tvg-chno="73" tvg-logo="https://cdn.telenorba.it/static/2025/10/testata_vector-telenorba-blu-2048x500.png" group-title="Regionali",TG Norba 24
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="SISoloCalcio.it" tvg-chno="61" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="SPORT",SI SoloCalcio
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PrimaveraTv.it" tvg-id="PrimaveraTv.it" tvg-chno="63" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/primaveratv.webp" group-title="SPORT",Primavera TV
@@ -148,7 +146,7 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 #EXTINF:-1 tvg-id="Tele Norba" tvg-chno="109" tvg-logo="https://cdn.telenorba.it/static/2023/01/cropped-norbaonline-favicon-192x192.png" tvg-name="Tele Norba" group-title="NORBA",Telenorba
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 #EXTINF:-1 tvg-id="Tele Norba" tvg-chno="112" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/tgnorba24.svg" group-title="NORBA",TG Norba 24
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:-1 tvg-name="Radio Norba Tv" tvg-chno="113" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="RADIO TV",Radio Norba Tv
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Telerama" tvg-chno="115" tvg-logo="https://i.imgur.com/enfqUlI.jpg" group-title="REGIONALE",Telerama
@@ -324,6 +322,14 @@ http://79.127.207.193:80/ArtSport5/playlist.m3u8
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-id="SkyUno.it" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sky",Sky Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/881
+#EXTINF:0 group-title="Sky",Sky Uno
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
+#EXTINF:0 group-title="Sky",Sky Atlantic
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19102/mpegts
+#EXTINF:0 group-title="Sky",Sky Cinema Collection
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
+#EXTINF:0 group-title="Sky",Sky Cinema Stories
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
 #EXTINF:-1 tvg-chno="431" tvg-id="SkySerie.it" tvg-chno="111" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sky",Sky Serie
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/880
 #EXTINF:-1 tvg-chno="432" group-title="ITAIPTV" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_action_logo.png" group-title="Italian",Skx Cinema Action
@@ -334,6 +340,8 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/862
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/865
 #EXTINF:-1 tvg-chno="435" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sky Cinema Suspense"
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/868
+#EXTINF:0 group-title="Sky",Sky Cinema Suspense
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
 #EXTINF:-1 tvg-chno="436" group-title="ITAIPTV" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sky Sport 24 IT
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/869
 #EXTINF:-1 tvg-chno="437" group-title="ITAIPTV" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sky Sport 24 IT

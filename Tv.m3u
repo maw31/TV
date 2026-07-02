@@ -399,15 +399,15 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/877
 #EXTINF:-1 tvg-chno="463" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona DAZ IT
 http://cdn.tv-rds.workers.dev/ZonaDAZN.m3u8
 #EXTINF:-1 tvg-chno="464" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="Diğer",TSN1
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/111
+http://hostengine.live/live/GCC528197/TGB86673456/338754.m3u
 #EXTINF:-1 tvg-chno="465" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/112
+http://hostengine.live/live/GCC528197/TGB86673456/338755.m3u
 #EXTINF:-1 tvg-chno="466" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png" group-title="Diğer",TSN3
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/113
+http://hostengine.live/live/GCC528197/TGB86673456/338756.m3u
 #EXTINF:-1 tvg-chno="467" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png" group-title="Diğer",TSN4
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/114
+http://hostengine.live/live/GCC528197/TGB86673456/338757.m3u
 #EXTINF:-1 tvg-chno="468" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png" group-title="Diğer",TSN5
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/115
+http://hostengine.live/live/GCC528197/TGB86673456/338758.m3u
 #EXTINF:-1 tvg-chno="469" group-title="Mondiale" , Dazn 1 
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
 #EXTINF:-1 tvg-chno="470" group-title="Mondiale" , Dazn 1 

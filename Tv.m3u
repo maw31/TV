@@ -379,9 +379,9 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/577
 #EXTINF:-1 tvg-chno="447" tvg-name="SKY MOTOGP" group-title="ITAIPTV",MOTOGP I
 http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8
 #EXTINF:-1 tvg-chno="448" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
-http://cdn.tv-rds.workers.dev/EURO1IT.m3u8
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/878
 #EXTINF:-1 tvg-chno="449" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 
-http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/879
 #EXTINF:-1 tvg-chno="450"  group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",Sk@y Sport Mix I
 http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8
 #EXTINF:-1 tvg-chno="451" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png",Sky Sports Main Event

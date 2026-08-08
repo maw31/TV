@@ -238,22 +238,7 @@ https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-id="CBDSportsHQ.us" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="SPORT",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
-#EXTINF:-1 tvg-chno="404" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
-http://cdn.tv-rds.workers.dev/MaxSportBG.m3u8
-#EXTINF:-1 tvg-chno="405" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1
-http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-chno="406" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png?1752486985" group-title="SPORT",MAX SPORT 2 HD
-http://cdn.tv-rds.workers.dev/MaxSport2BG.m3u8
-#EXTINF:-1 tvg-chno="407" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png?1752486985" group-title="SPORT",MAX SPORT 2
-http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-chno="408" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SPORT",MAX SPORT 3 HD
-http://cdn.tv-rds.workers.dev/MaxSport3BG.m3u8
-#EXTINF:-1 tvg-chno="409" tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SPORT",MAX SPORT 3
-http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4 HD
-http://cdn.tv-rds.workers.dev/MaxSport4BG.m3u8
-#EXTINF:-1 tvg-chno="411" tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4
-http://77.46.130.252:99/maxsport4
+
 #EXTINF:-1 tvg-id="Golazo.us" tvg-chno="230" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/golazo.webp" group-title="Sport",Golazo - SerieA
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/63a0e33a45264d000850ed7e
 #EXTINF:-1 tvg-id="CBDSportsHQ.us" tvg-chno="230" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports HQ
@@ -268,58 +253,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7374.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 EXTINF:-1 group-title="Mondiale",FIFA World Cup 2026 [coming]
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT",Eleven Sports 1 HD
-http://bocian.io:8080/live/marek58/Mjc3ODg5MDQ4/105525.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT",Eleven Sports 1 HD PL
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105525
-#EXTINF:-1 tvg-id="" group-title="SPORT",Eleven Sports 2 HD
-http://bocian.io:8080/live/marek58/Mjc3ODg5MDQ4/105526.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT",Eleven Sports 2 HD PL
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105526
-#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/ElevenSports2-logo.png",ELEVEN SPORTS 2 PL
-http://cdn.tv-rds.workers.dev/ElevenSports2PL.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT",Eleven Sports 3 HD
-http://bocian.io:8080/live/marek58/Mjc3ODg5MDQ4/105527.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT",Eleven Sports 3 HD PL
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105527
-#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png",ELEVEN SPORTS 3 PL
-http://cdn.tv-rds.workers.dev/ElevenSports3PL.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT",Eleven Sports 4 HD
-http://bocian.io:8080/live/marek58/Mjc3ODg5MDQ4/105528.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT",Eleven Sports 4 HD PL
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105528
-#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png",ELEVEN SPORTS 4 PL
-http://cdn.tv-rds.workers.dev/ElevenSports4PL.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",BEIN SPORTS 3
-http://99.27.51.147:8080/BeinSport3/index.m3u8
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://logo.m3uassets.com/supersport1.png" group-title="SPORT",Super Sport 1 AL
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-#EXTINF:-1 tvg-chno="417" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60zt211592206089.png" group-title="SPORT",Super Sport 2 AL
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://e7.pngegg.com/pngimages/575/710/png-clipart-albania-supersport-television-channel-streaming-media-others-miscellaneous-television.png" group-title="SPORT",Super Sport 3 AL
-http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
-#EXTINF:-1 tvg-chno="419" tvg-logo="https://e7.pngegg.com/pngimages/320/905/png-clipart-albania-supersport-digitalb-television-streaming-media-others-television-blue.png" group-title="SPORT",Super Sport 3 AL
-http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
-#EXTINF:-1 tvg-chno="420" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_TR_logo_v2.png?1747139940" group-title="SPORT",Tivibu Spor 1 TR
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-chno="421" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_2_TR_logo_v2.png?1733730885" group-title="SPORT",Tivibu Spor 2 TR
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-chno="422" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_3_TR_logo_v2.png?1733730977" group-title="SPORT",Tivibu Spor 3 TR
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-chno="423" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_4_TR_logo_v2.png?1733731049" group-title="SPORT",Tivibu Spor 4 TR
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_1_AL_logo_v2.png?1725287688" group-title="SPORT",Art Sport 1 HD KO
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_2_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 2 HD KO
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 tvg-chno="426" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_3_AL_logo_v3.png?1725288505" group-title="SPORT",Art Sport 3 HD KO
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 tvg-chno="427" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_4_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 4 HD KO
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 tvg-chno="428" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_5_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 5 HD KO
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 tvg-chno="429" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo_v2.png?1725287953" group-title="SPORT",Art Sport 6 HD KO
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
+
+
 #EXTINF:-1 tvg-chno="430" tvg-id="SkyUno.it" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sky",Sky Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/881
 #EXTINF:0 group-title="Sk@y",Sky Uno
@@ -368,26 +303,12 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
 http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8
 #EXTINF:-1  tvg-chno="442" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/576
-#EXTINF:-1  tvg-chno="443" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png",Sk@y Sport Max I
-http://cdn.tv-rds.workers.dev/SkySportMaxIT.m3u8
-#EXTINF:-1  tvg-chno="444" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Arena-Logo.png",Sk@y Sports Arena I
-http://cdn.tv-rds.workers.dev/SkySportArenaIT.m3u8
-#EXTINF:-1 tvg-chno="445" tvg-name="SKY F1" group-title="ITAIPTV",F1 I
-http://cdn.tv-rds.workers.dev/SkySportF1.m3u8
 #EXTINF:-1 tvg-chno="446" tvg-name="SKY F1" group-title="ITAIPTV",F1 I
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/577
-#EXTINF:-1 tvg-chno="447" tvg-name="SKY MOTOGP" group-title="ITAIPTV",MOTOGP I
-http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8
 #EXTINF:-1 tvg-chno="448" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/878
 #EXTINF:-1 tvg-chno="449" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/879
-#EXTINF:-1 tvg-chno="450"  group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",Sk@y Sport Mix I
-http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8
-#EXTINF:-1 tvg-chno="451" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png",Sky Sports Main Event
-http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8
-#EXTINF:-1 tvg-chno="452" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png",Sky Sport Calcio IT
-http://cdn.tv-rds.workers.dev/SkySportCalcioIT.m3u8
 #EXTINF:-1 tvg-chno="453" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 251 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/871
 #EXTINF:-1 tvg-chno="454" group-title="ITAIPTV" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport 252 HD

@@ -296,7 +296,7 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/873
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/874
 #EXTINF:-1 tvg-chno="457" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 255 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/875
-#EXTINF:-1 tvg-chno="458" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp,Sky Sport 256 HD
+#EXTINF:-1 tvg-chno="458" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 256 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/876
 #EXTINF:-1 tvg-chno="440" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport Calcio
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/870
@@ -310,7 +310,7 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19113/index.m3u8
 #EXTINF:-1 tvg-chno="440" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport Calcio
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg,Zona Dazn
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/877
 #EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/55
@@ -336,6 +336,8 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/154
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/155
 #EXTINF:-1 tvg-name="ESPN 2 ARG"  group-title="DAZDA" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 ARG
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/150
+#EXTINF:-1 tvg-name="ESPN 3 ARG"  group-title="DAZDA" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png",ESPN 3 ARG
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/798
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/472
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD

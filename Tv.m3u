@@ -1,9 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/it.xml http://rebrand.ly/epgitalia https://github.com/iptv-org/epg/raw/refs/heads/master/sites/superguidatv.it/superguidatv.it.channels.xml https://i.mjh.nz/SamsungTVPlus/it.xml"
 #EXTINF:-1 tvg-name="Rai1.it" tvg-chno="1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="DTT",Rai 1 
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-name="Rai2.it" tvg-chno="2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="DTT",Rai 2 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai2.svg" group-title="Rai",Rai 2
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai3.it" tvg-chno="3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-id="Rai3.it" group-title="DTT",Rai 3 
@@ -394,7 +393,7 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2517/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3PVEHDX52ZW4M5/2517/index.m3u8
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 1 HD GR
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31578/index.m3u8
-EXTINF:-1 group-title="SERIE A",Cosmote Sport 2 HD GR
+#EXTINF:-1 group-title="SERIE A",Cosmote Sport 2 HD GR
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31579/index.m3u8
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 3 HD GR
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31581/index.m3u8

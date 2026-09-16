@@ -243,17 +243,13 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19102/index.m3u8
 #EXTINF:0 group-title="Sk@y",Sky Atlantic
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/362 
 #EXTINF:0 group-title="Sk@y",Sky Cinema Collection
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19099/index.m3u8
 #EXTINF:0 group-title="Sk@y",Sky Cinema Collection
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/859
 #EXTINF:0 group-title="Sk@y",Sky Cinema Stories
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19096/index.m3u8
 #EXTINF:-1 tvg-chno="431" tvg-id="SkySerie.it" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sk@y",Sky Serie
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/880
-#EXTINF:0 group-title="Sk@y",Sky Cinema Serie
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/880
-#EXTINF:0 group-title="Sk@y",Sky Cinema 
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19099/index.m3u8
 #EXTINF:0 group-title="Sk@y",Sky Cinema Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/860
 #EXTINF:0 group-title="Sk@y",Sky Cinema Suspense

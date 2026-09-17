@@ -137,6 +137,15 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png" group-title="REGIONALE", Telerama
 #EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
+#EXTINF:-1 tvg-chno="815" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/815-rai3tgrlazio.png" group-title="REGIONALE", Rai 3 TGR Lazio
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://tgrlazio-live.akamaized.net/hls/live/2025147/tgrlazio/tgrlazio/playlist.m3u8
+#EXTINF:-1 tvg-chno="819" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/819-rai3tgrpuglia.png", Rai 3 TGR Puglia
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/playlist.m3u8
+#EXTINF:-1 tvg-chno="816" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/816-rai3tgrabruzzo.png", Rai 3 TGR Abruzzo
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://tgrabruzzo-live.akamaized.net/hls/live/2025558/tgrabruzzo/tgrabruzzo/playlist.m3u8
 #EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="70" tvg-logo="https://logowik.com/content/uploads/images/rsi-la-1-hd2708.logowik.com.webp" group-title="RSI",RSI La1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1612.m3u8
 #EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="71" tvg-logo="https://logowik.com/content/uploads/images/rsi-la-2-hd6677.logowik.com.webp"  group-title="RSI",RSI La2
@@ -206,7 +215,8 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-name="RadioKissKiss.it" tvg-chno="305" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-id="KissKissTV.it" group-title="RADIO TV",Radio KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RaiRadio2.it" tvg-chno="306" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" group-title="RADIO TV",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1 tvg-name="rds" tvg-chno="309_" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" group-title="RADIO TV",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-chno="313" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiomontecarlo.webp" group-title="RADIO TV",Radio Montecarlo TV

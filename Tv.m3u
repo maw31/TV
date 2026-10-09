@@ -423,6 +423,12 @@ http://91.201.172.14:35006/
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2524/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 4 FHD
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2538/index.m3u8
+#EXTINF:-1 group-title="SERIE A",Match_Football_1_HD
+http://31.148.5.241:80/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 group-title="SERIE A",Match_Football_2_HD
+http://31.148.5.241:80/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 group-title="SERIE A",Match_Football_3_HD
+http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 1 HD GR
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31578/index.m3u8
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 2 HD GR

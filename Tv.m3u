@@ -370,17 +370,17 @@ http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 BRA"  group-title="SERIE A" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 BRA
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png, ART SPORT 1
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png", ART SPORT 1
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ARTSport1
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png, ART SPORT 2
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png", ART SPORT 2
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ARTSport2
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png, ART SPORT 3
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png", ART SPORT 3
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ARTSport3
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png, ART SPORT 4
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png", ART SPORT 4
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ARTSport4
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png, ART SPORT 5
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png", ART SPORT 5
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ARTSport5
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png, ART SPORT 6
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png", ART SPORT 6
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ARTSport6
 #EXTINF:-1 tvg-name="Tring Sport 1 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-1-AL-logo.png" group-title="SERIE A",Tring Sport 1 AL
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31563/index.m3u8

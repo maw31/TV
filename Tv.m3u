@@ -362,7 +362,7 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19113/index.m3u8?wm
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/877
-#EXTINF:-1 tvg-name="ESPN BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN BRA
+#EXTINF:-1 tvg-name="ESPN BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-logo.png",ESPN BRA
 https://cr7v.short.gy/live25/spn/Index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 BRA
 http://138.204.86.4:8080/ESPN2_HD/index.m3u8
@@ -394,11 +394,11 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/472
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
 http://213.169.39.30:5138
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A",MAX SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="SERIE A",MAX SPORT 2 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/473
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A",MAX SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="SERIE A",MAX SPORT 2 HD
 http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A",MAX SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png group-title="SERIE A",MAX SPORT 2 HD
 http://213.169.39.30:5140
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SERIE A",MAX SPORT 3 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/474

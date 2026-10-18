@@ -362,6 +362,8 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19113/index.m3u8?wm
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/877
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/Movistar_LaLiga-logo.png", M.LIGA CAMPEONES
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/MLIGADECAMPEONES
 #EXTINF:-1 tvg-name="ESPN BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-logo.png",ESPN BRA
 https://cr7v.short.gy/live25/spn/Index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 BRA

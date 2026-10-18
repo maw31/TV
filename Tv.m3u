@@ -401,11 +401,11 @@ http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4 HD
 http://213.169.39.30:5130
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 DE
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/426
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DAZNDE
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 DE
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19042/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/427
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DAZN2DE
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19043/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 1 HD PL
@@ -501,11 +501,13 @@ http://dns.explouddev.com/live/992005733/61992005733/112004.m3u8
 #EXTINF:-1, Sport TV 6 group-title="SPORT",SPORT TV 6 POR
 http://dns.explouddev.com/live/992005733/61992005733/112006.m3u8
 #EXTINF:-1 tvg-chno="475" group-title="SERIE A",SPORT TV 1 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/49
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT1
 #EXTINF:-1 tvg-chno="476" group-title="SERIE A" , SPORT TV 2 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/74
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT2
 #EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 3 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/74
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT3
+#EXTINF:-1, Sport TV 4 group-title="SPORT",SPORT TV 4 POR
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT4
 #EXTINF:-1 group-title="Sports",SETENTA 1
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
 #EXTINF:-1 group-title="Sports",SETENTA 2

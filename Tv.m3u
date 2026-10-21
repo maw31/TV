@@ -293,18 +293,48 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportF1Italia
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro1IT
 #EXTINF:-1 tvg-chno="460" group-title="SPORT" tvg-logo=""https://freeshot.live/upload/source/Eurosport_2_logo.png",Eurosport 2
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro2IT
-#EXTINF:-1 tvg-chno="453" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 251 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/871
-#EXTINF:-1 tvg-chno="454" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 252 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/872
-#EXTINF:-1 tvg-chno="455" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 253 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/873
-#EXTINF:-1 tvg-chno="456" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 254 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/874
-#EXTINF:-1 tvg-chno="457" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 255 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/875
-#EXTINF:-1 tvg-chno="458" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 256 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/876
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSUPERCALCIOHD.png" group-title="|IT| ✪ SKY CALCIO",|IT| SKY SPORT CALCIO ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=9193&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTSERIEA.png" group-title="|IT| ✪ SPORT",|IT| SKY SERIE A ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41060&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 251 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=12491&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 251 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=12490&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 252 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=287246&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 252 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4201&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 253 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=287247&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 253 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4200&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 254 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41061&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 254 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=287248&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT|SKY SPORT 254 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4199&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 255 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41062&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT  255 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4198&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 256 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41063&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 256 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=287249&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 256 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4197&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 257 ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41064&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 257 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41144&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT BAR DUE ᵁᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=153499&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT BAR DUE ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=153500&extension=ts
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT BAR DUE ˢᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=153501&extension=ts
 #EXTINF:-1 tvg-chno="461" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport Calcio
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
 #EXTINF:-1 tvg-chno="463" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport Calcio

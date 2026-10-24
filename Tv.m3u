@@ -391,12 +391,6 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2518/index.m3u8?wms
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 2 HD PL
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2517/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_1_logo.png" group-title="SERIE A ",Digi Sport 1 FHD
-http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_2_logo.png" group-title="SERIE A ",Digi Sport 2 FHD
-http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2522/index.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_3_logo.png" group-title="SERIE A ",Digi Sport 3 FHD
-http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2524/index.m3u8
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_1_logo.png" group-title="SERIE A ",Digi Sport 1 FHD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT1
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_2_logo.png" group-title="SERIE A ",Digi Sport 2 FHD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT2
@@ -471,11 +465,7 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2536/index.m3u8?wms
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="SERIE A" , SPORT TV 1 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2525/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 vg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="SERIE A" , SPORT TV 2 POR
-http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2526/index.m3u8
-#EXTINF:-1 vg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="SERIE A" , SPORT TV 2 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2526/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="SERIE A UEFA" group-title="SERIE A" , SPORT TV 3 POR
-http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2527/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="SERIE A UEFA" group-title="SERIE A" , SPORT TV 3 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2527/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="SERIE A" , SPORT TV 4 POR

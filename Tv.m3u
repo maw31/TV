@@ -498,39 +498,39 @@ http://cdntv.online/low/9mlxywika2/55.m3u8
 http://cdntv.online/low/9mlxywika2/56.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="SERIE A",Match_Football_3_HD
 http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="NL| SPORT",NL| ZIGGO SPORT HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="SERIE A ",ZIGGO SPORT HD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1282765&extension=ts&play_token=kGxvmCVUi8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="NL| SPORT",NL| ZIGGO SPORT HD ²
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="SERIE A ",ZIGGO SPORT HD ²
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1282764&extension=ts&play_token=oCMzqq6S1a
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="NL| SPORT",NL| ZIGGO SPORT 2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="SERIE A ",ZIGGO SPORT 2 HD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1282763&extension=ts&play_token=F7b4ou5L9F
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="NL| SPORT",NL| ZIGGO SPORT 3 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="SERIE A ",ZIGGO SPORT 3 HD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1282761&extension=ts&play_token=RVd3B5leA4
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="NL| SPORT",NL| ZIGGO SPORT 4 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="SERIE A ",ZIGGO SPORT 4 HD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1282760&extension=ts&play_token=SaGB55nDZY
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="NL| SPORT",NL| ZIGGO SPORT 5 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="SERIE A ",ZIGGO SPORT 5 HD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1282762&extension=ts&play_token=tLpD9lG1rT
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="NL| SPORT",NL| ZIGGO SPORT 6 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="SERIE A ",ZIGGO SPORT 6 HD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1282759&extension=ts&play_token=8euOC7BzT3
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30567.png" group-title="UK| SPORTS",UK| TNT SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30567.png" group-title="SERIE A ",TNT SPORTS 1 FHD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=30567&extension=ts&play_token=gfl1BosWam
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30566.png" group-title="UK| SPORTS",UK| TNT SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30566.png" group-title="SERIE A ",TNT SPORTS 2 FHD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=30566&extension=ts&play_token=DCVbRwIHFH
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30565.png" group-title="UK| SPORTS",UK| TNT SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30565.png" group-title="SERIE A ",TNT SPORTS 3 FHD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=30565&extension=ts&play_token=DyeCQJKiLB
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK| SPORTS",UK| TNT SPORTS 4 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS4.png" group-title="SERIE A ",TNT SPORTS 4 FHD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1019935&extension=ts&play_token=7tZusyw3YU
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS5.png" group-title="UK| SPORTS",UK| TNT SPORTS 5 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS5.png" group-title="SERIE A ",TNT SPORTS 5 FHD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1004548&extension=ts&play_token=WVfnxsAC2B
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK| SPORTS",UK| TNT SPORTS 1 SD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS1.png" group-title="SERIE A ",TNT SPORTS 1 SD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1047260&extension=ts&play_token=3co7nXUQ4A
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS2.png" group-title="UK| SPORTS",UK| TNT SPORTS 2 SD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS2.png" group-title="SERIE A ",TNT SPORTS 2 SD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1047261&extension=ts&play_token=GnGZcfRPBt
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK| SPORTS",UK| TNT SPORTS 3 SD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS3.png" group-title="SERIE A ",TNT SPORTS 3 SD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1047262&extension=ts&play_token=6XTtlK7mQI
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK| SPORTS",UK| TNT SPORTS 4 SD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS4.png" group-title="SERIE A ",TNT SPORTS 4 SD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1047263&extension=ts&play_token=M3kM1fPpA7
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS5.png" group-title="UK| SPORTS",UK| TNT SPORTS 5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS5.png" group-title="SERIE A ",TNT SPORTS 5
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1004550&extension=ts&play_token=ttoIbCMxs3
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 1 HD GR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31578/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
@@ -546,9 +546,38 @@ https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2560/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png",ZIGGO SPORT 2 NL
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2561/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 group-title="Freeshot Belgium & Netherlands" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",ZIGGO SPORT 3 NL
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",ZIGGO SPORT 3 NL
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2559/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="464" group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png",TSN1
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="SERIE A",MAGENTA GRSPORT 1
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=28594&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="SERIE A",MAGENTA GRSPORT 2
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=28593&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="SERIE A",MAGENTA GRSPORT 3
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=28592&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="SERIE A",MAGENTA GRSPORT 4
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=28591&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="SERIE A",MAGENTA GRSPORT 5
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=28590&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="SERIE A",MAGENTA GRSPORT 6
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=28589&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="SERIE A",MAGENTA GRSPORT 7
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=28588&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="SERIE A",MAGENTAMAGENTA GRSPORT 8
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=28587&extension=ts
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/gr-ert-play-2-9817.jpg" group-title="SERIE A",MAGENTA,CYTAVISION SPORTS 1 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=281504&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cytavisionsports2.png" group-title="SERIE A",MAGENTA,CYTAVISION SPORTS 2 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=281503&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="SERIE A",MAGENTA,CYTAVISION SPORTS 3 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=281502&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="SERIE A",MAGENTA,CYTAVISION SPORTS 4 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=281501&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="SERIE A",MAGENTA,CYTAVISION SPORTS 5 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=281500&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="SERIE A",MAGENTA,CYTAVISION SPORTS 6 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=281499&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="SERIE A",MAGENTA,CYTAVISION SPORTS 7 ᴴᴰ
+http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=281498&extension=ts#EXTINF:-1 tvg-chno="464" group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png",TSN1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1456.m3u8
 #EXTINF:-1 tvg-chno="465" group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1455.m3u8

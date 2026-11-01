@@ -345,6 +345,12 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19113/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY SPORT CALCIO HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Sport%20Serie%20A%20HD.png" group-title="SERIE A",SKY SPORT CALCIO HD
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/39.ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691277.png" group-title="SERIE A",SKY SPORT FOOTBALL UHD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691277&extension=ts&play_token=w6aKbkZcl3
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691276.png" group-title="SERIE A",SKY SPORT FOOTBALL 4K
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691276&extension=ts&play_token=8dDbxIvJh0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691275.png" group-title="SERIE A",SKY SPORT ARENA UHD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691275&extension=ts&play_token=ne9jn4cBwg
 #EXTINF:-1 tvg-id="SkySport251.it" tvg-name="SKY CALCIO 1 - 251 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%201%20%20HD.png" group-title="SERIE A",SKY CALCIO 1 - 251 HD
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/209.ts
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CALCIO 2 - 252 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/images/f90f17d64e537d9d98528900cb203c6a.png" group-title="SERIE A",SKY CALCIO 2 - 252 FULL HD

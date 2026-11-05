@@ -343,8 +343,6 @@ http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/36.ts
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
 #EXTINF:-1 tvg-chno="463" group-title="SERIE A" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Sport%20Serie%20A%20HD.png",Sky Sport Calcio
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19113/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY SPORT CALCIO HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Sport%20Serie%20A%20HD.png" group-title="SERIE A",SKY SPORT CALCIO HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/39.ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691277.png" group-title="SERIE A",SKY SPORT FOOTBALL UHD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691277&extension=ts&play_token=w6aKbkZcl3
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691276.png" group-title="SERIE A",SKY SPORT FOOTBALL 4K
@@ -357,96 +355,6 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19128/index.m3u8?wm
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2492/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/sky-sport-austria-logo-png_seeklogo-315325.png" group-title="SERIE A",SKY SPORT AUSTRIA CHL HD
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2492/index.m3u8
-#EXTINF:-1 tvg-id="SkySport251.it" tvg-name="SKY CALCIO 1 - 251 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%201%20%20HD.png" group-title="SERIE A",SKY CALCIO 1 - 251 HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/209.ts
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CALCIO 2 - 252 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/images/f90f17d64e537d9d98528900cb203c6a.png" group-title="SERIE A",SKY CALCIO 2 - 252 FULL HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/207.ts
-#EXTINF:-1 tvg-id="SkySport253.it" tvg-name="SKY CALCIO 3 - 253 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%203%20HD.png" group-title="SERIE A",SKY CALCIO 3 - 253 HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/203.ts
-#EXTINF:-1 tvg-id="SkySport254.it" tvg-name="SKY CALCIO 4 - 254 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%204%20HD.png" group-title="SERIE A",SKY CALCIO 4 - 254 HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/200.ts
-#EXTINF:-1 tvg-id="SkySport255.it" tvg-name="SKY CALCIO 5 - 255 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%205%20HD.png" group-title="SERIE A",SKY CALCIO 5 - 255 HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/197.ts
-#EXTINF:-1 tvg-id="SkySport256.it" tvg-name="SKY CALCIO 6 - 256 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%206%20HD.png" group-title="SERIE A",SKY CALCIO 6 - 256 HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/195.ts
-#EXTINF:-1 tvg-id="SkySport257.it" tvg-name="SKY CALCIO 7 - 257 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%207%20HD.png" group-title="SERIE A",SKY CALCIO 7 - 257 HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/193.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 8 - 258 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/ce9116780d67b41f50e156ad023d89ca.png" group-title="SERIE A",SKY CALCIO 8 - 258 HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/40205.ts
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona Dazn
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT SERIE A 1  HD" tvg-logo="http://netflix.oldadventure.org:23000/images/dzna.png" group-title="SERIE A",DAZN SPORT SERIE A 1  HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/39291.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT SERIE A 2 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/dzna.png" group-title="SERIE A",DAZN SPORT SERIE A 2 HD
-http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/39294.ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SERIE A",DAZN DIRETTA GOL SERIE A UHD
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=728649&extension=ts&play_token=w7oenUH7kA
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SERIE A",DAZN DIRETTA GOL SERIE B UHD
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=728648&extension=ts&play_token=KHvNLGwiQ5
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/DAZN.png" group-title="SERIE A",SKY DAZN BAR FULL ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=51835&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/DAZN.png" group-title="SERIE A",SKY DAZN BAR ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=51836&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/DAZN.png" group-title="SERIE A",SKY DAZN BAR ˢᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=51837&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SERIE A",SKY DAZN 1 UHD
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691242&extension=ts&play_token=yqQI2V00dZ
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYCALCIO1HD.png" group-title="SERIE A",SKY SPORT CALCIO  ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=9193&extension=ts
-#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/SKYSPORTS.png" group-title="SERIE A",SKY SPORT CALCIO  ˢᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=41044&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5020.png" group-title="SERIE A",SKY SPORT UNO 1ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=9194&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTSERIEA.png" group-title="SERIE A",SKY SERIE A ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=41060&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5021.png" group-title="SERIE A",SKY SPORT 2 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=12496&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORT24FHD.png" group-title="SERIE A",SKY SPORT 24 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=287243&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORT24FHD.png" group-title="SERIE A",SKY SPORT 24 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=390&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 251 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=12491&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 251 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=12490&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 252 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=287246&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 252 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=4201&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 253 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=287247&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 253 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=4200&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 254 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=41061&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 254 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=287248&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" ggroup-title="SERIE A",SKY SPORT 254 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=4199&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 255 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=41062&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT  255 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=4198&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 256 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=41063&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 256 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=287249&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 256 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=4197&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 257 ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=41064&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT 257 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=41144&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT BAR DUE ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=153499&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT BAR DUE ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=153500&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="SERIE A",SKY SPORT BAR DUE ˢᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=153501&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/FRANCE/PRIMEVIDEO.png" group-title="SERIE A",SKY SPORT BAR PRIMEVIDEO ᵁᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=153502&extension=ts
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/Movistar_LaLiga-logo.png", M.LIGA CAMPEONES
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/MLIGADECAMPEONES
 #EXTINF:-1 tvg-name="ESPN BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-logo.png",ESPN BRA
 https://cr7v.short.gy/live25/spn/Index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 BRA
@@ -455,21 +363,13 @@ http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 BRA"  group-title="SERIE A" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 BRA
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-1-logo-290x80px.png" group-title="SERIE A",MAX Sport 1 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=31801&extension=ts
-#EXTINF:-1 tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-2-logo-290x80px.png" group-title="SERIE A",MAX Sport 2 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=31802&extension=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Max-sport-3-new-logo.png/revision/latest/scale-to-width-down/340?cb=20201123063959" group-title="SERIE A",MAX Sport 3 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=31803&extension=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Max-sport-4-new-logo.png/revision/latest/scale-to-width-down/340?cb=20201123064105" group-title="SERIE A",MAX Sport 4 ᴴᴰ
-http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=31804&extension=ts
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/472
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A CHL",MAX SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A CHL",MAX SPORT 1 HD
 http://213.169.39.30:5138
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A CHL",MAX SPORT 1 HD
+http://92.247.25.42:11176/
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="SERIE A",MAX SPORT 2 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/473
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="SERIE A",MAX SPORT 2 HD
@@ -477,19 +377,21 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/473
 http://77.46.130.252:99/maxsport2
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png group-title="SERIE A",MAX SPORT 2 HD
 http://213.169.39.30:5140
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="SERIE A",MAX SPORT 2 HD
+http://92.247.25.42:11177/
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SERIE A",MAX SPORT 3 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/474
+http://92.247.25.42:11171/
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SERIE A",MAX SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SERIE A",MAX SPORT 3 HD
 http://213.169.39.30:5142
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4 HD
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="CHL",MAX SPORT 4 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/475
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4 HD
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="CHL",MAX SPORT 4 HD
 http://77.46.130.252:99/maxsport4
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4 HD
-http://213.169.39.30:5130
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="CHL",MAX SPORT 4 HD
+http://92.247.25.42:11173/
 #EXTINF:-1 tvg-name="Tring Sport 1 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-1-AL-logo.png" group-title="SERIE A",Tring Sport 1 AL
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31563/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-name="Tring Sport 2 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-2-AL-logo.png" group-title="SERIE A",Tring Sport 2 AL

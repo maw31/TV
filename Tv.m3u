@@ -419,25 +419,13 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT3
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_4_logo.png" group-title="SERIE A ",Digi Sport 4 FHD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT4
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207916.png" group-title="RO| CANALE DE SPORT",RO|  DIGI SPORT 1 HD
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=207916&extension=ts&play_token=JKzTlAxviN
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56119.png" group-title="RO| CANALE DE SPORT",RO| DIGI SPORT 1
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=56119&extension=ts&play_token=FGIkjBd73O
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207917.png" group-title="RO| CANALE DE SPORT",RO|  DIGI SPORT 2 HD
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=207917&extension=ts&play_token=KJAmR13wCg
+http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2523/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56118.png" group-title="RO| CANALE DE SPORT",RO| DIGI SPORT 2
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=56118&extension=ts&play_token=d4EtEY0teD
+http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2522/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207963.png" group-title="RO| CANALE DE SPORT",RO|  DIGI SPORT 3 HD
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=207963&extension=ts&play_token=kCDZni5kMM
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1041527.png" group-title="RO| CANALE DE SPORT",RO| DIGI SPORT 3 HD
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1041527&extension=ts&play_token=PoWpbFaPCa
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/319153.png" group-title="RO| CANALE DE SPORT",RO| DIGI SPORT 3
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=319153&extension=ts&play_token=hSO22S8K3h
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56117.png" group-title="RO| CANALE DE SPORT",RO| DIGI SPORT 3
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=56117&extension=ts&play_token=VsT5flR9FU
+http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2524/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207964.png" group-title="RO| CANALE DE SPORT",RO|  DIGI SPORT 4 HD
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=207964&extension=ts&play_token=SueubdHLmi
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56116.png" group-title="RO| CANALE DE SPORT",RO| DIGI SPORT 4
-http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=56116&extension=ts&play_token=Jhq1zygaUq
+http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2538/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459742.png" group-title="RO| CANALE DE SPORT",RO| PRIMA SPORT HD
 http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=459742&extension=ts&play_token=XlOatjsID5
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/92618.png" group-title="RO| CANALE DE SPORT",RO| PRIMA SPORT HD

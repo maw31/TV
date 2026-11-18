@@ -194,6 +194,8 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiomontecarlo.webp" group-title="RADIO TV",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiomontecarlo.webp" group-title="RADIO TV",Radio Montecarlo TV
+http://95.141.36.9:8080/stream/180/index.m3u8
 #EXTINF:-1 tvg-name="RaiNews24.it" tvg-chno="212" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" group-title="News",Rai News 24 
 https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-1-mediaset-extra.jpg" group-title="DTT",GF Regia 1 Mediaset Extra

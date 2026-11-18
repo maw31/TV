@@ -306,7 +306,8 @@ http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 BRA"  group-title="SERIE A" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 BRA
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A CHL",MAX SPORT 1 HD
-http://77.46.130.252:99/maxsport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
+http://213.91.179.28:8000/play/a0as
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A CHL",MAX SPORT 1 HD
 http://213.169.39.30:5138
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A CHL",MAX SPORT 1 HD
@@ -314,7 +315,8 @@ http://92.247.25.42:11171/
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="SERIE A",MAX SPORT 2 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/473
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="SERIE A",MAX SPORT 2 HD
-http://77.46.130.252:99/maxsport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0at
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png group-title="SERIE A",MAX SPORT 2 HD
 http://213.169.39.30:5140
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="SERIE A",MAX SPORT 2 HD
@@ -322,13 +324,15 @@ http://92.247.25.42:11172/
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SERIE A",MAX SPORT 3 HD
 http://92.247.25.42:11173/
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SERIE A",MAX SPORT 3 HD
-http://77.46.130.252:99/maxsport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0ar
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SERIE A",MAX SPORT 3 HD
 http://213.169.39.30:5142
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="CHL",MAX SPORT 4 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/475
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="CHL",MAX SPORT 4 HD
-http://77.46.130.252:99/maxsport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05n
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="CHL",MAX SPORT 4 HD
 http://92.247.25.42:11174/
 #EXTINF:-1 tvg-name="Tring Sport 1 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-1-AL-logo.png" group-title="SERIE A",Tring Sport 1 AL

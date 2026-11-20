@@ -300,13 +300,13 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2492/index.m3u8?wms
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/sky-sport-austria-logo-png_seeklogo-315325.png" group-title="COPPE",SKY SPORT AUSTRIA CHL HD
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2492/index.m3u8
 #EXTINF:-1 tvg-name="ESPN BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-logo.png",ESPN BRA
-https://cr7v.short.gy/live25/spn/Index.m3u8
+http://45.185.15.154:9080/cloud/stream/59/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 BRA
-http://138.204.86.4:8080/ESPN2_HD/index.m3u8
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 BRA"  group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png",ESPN 3 BRA
-http://138.204.86.4:8080/ESPN3_HD/index.m3u8
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_3/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 BRA"  group-title="SERIE A" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 BRA
-http://138.204.86.4:8080/ESPN4_HD/index.m3u8
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SERIE A CHL",MAX SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
 http://213.91.179.28:8000/play/a0as

@@ -261,10 +261,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/63a0e33a45264d000850ed7e
 #EXTINF:-1 tvg-id="CBDSportsHQ.us" tvg-chno="230" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports HQ
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/5e9f2c05172a0f0007db4786
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="CINEMA",SKY UNO
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sk@y",SKY UNO
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19101/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYATLANTICFHD.png" group-title="Sk@y",Sky Atlantic
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692104.png" group-title="CINEMA",SKY CINEMA ACTION HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=692104&extension=ts&play_token=TgzEY8SH34
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692098.png" group-title="CINEMA",SKY CINEMA COMEDY HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=692098&extension=ts&play_token=5Ici6Tcb4c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CINEMA-DRAMMATICO.png" group-title="CINEMA",CINEMA FILM IN SALA  4K (QUALITA CAMERA)
 #EXTINF:-1 tvg-id="SkySerie.it" tvg-logo="https://i.imgur.com/85B6ReP.png" group-title="CINEMA",SKY SERIE
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19096/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYCINEMASUSPENSE.png" group-title="CINEMA",SKY CINEMA SUSPENSE 

@@ -374,14 +374,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125425&uid=19260&deviceSn=32DA037ED92
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2518/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 2 HD PL
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2517/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_1_logo.png" group-title="SERIE A",Digi Sport 1 FHD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT1
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_2_logo.png" group-title="SERIE A",Digi Sport 2 FHD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT2
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_3_logo.png" group-title="SERIE A",Digi Sport 3 FHD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT3
-#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_4_logo.png" group-title="SERIE A",Digi Sport 4 FHD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT4
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207916.png" group-title="SERIE A",DIGI SPORT 1 HD
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2523/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56118.png" group-title="SERIE A",DIGI SPORT 2
@@ -390,12 +382,6 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2522/index.m3u8?wms
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2524/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207964.png" group-title="SERIE A",DIGI SPORT 4 HD
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2538/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="SERIE A",Матч! Футбол 1
-http://stream.mcquack.net/130/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="SERIE A", Матч! Футбол 2
-http://stream.mcquack.net/142/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="SERIE A", Матч! Футбол 3
-http://stream.mcquack.net/185/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="SERIE A",Match_Football_1_HD
 http://31.148.5.241:80/Match_Football_1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="SERIE A",Match_Football_2_HD
@@ -436,16 +422,6 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2560/index.m3u8?wms
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2561/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",ZIGGO SPORT 3 NL
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2559/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 group-title="Sports",DAZN 1
-http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 3
-http://dns.explouddev.com/live/992005733/61992005733/273452.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 4
-http://94.130.32.19:8080/dazn4/index.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 5
-http://dns.explouddev.com/live/992005733/61992005733/273453.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA",Dazn 1 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31954/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-name="DAZN 2 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA",Dazn 2 POR
